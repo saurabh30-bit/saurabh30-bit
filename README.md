@@ -57,6 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh30-bit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### 🏆 Trophies
