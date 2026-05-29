@@ -18,13 +18,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name / Company]**
-- 🌱 I’m currently learning **[Technology or Framework]**
-- 👯 I’m looking to collaborate on **[Type of Projects / Open Source]**
-- 🤝 I’m looking for help with **[Area of help]**
-- 💬 Ask me about **[Your Expertise, e.g., React, Python, UI/UX]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Something fun or quirky about you]**
+- 🔭 I’m currently working on **building scalable web applications and exploring AI integrations**
+- 🌱 I’m currently learning **advanced System Design and modern cloud architectures**
+- 👯 I’m looking to collaborate on **open-source projects related to web development and AI**
+- 🤝 I’m looking for help with **optimizing complex database queries and CI/CD pipelines**
+- 💬 Ask me about **JavaScript, React, Node.js, and building RESTful APIs**
+- 📫 How to reach me: **You can open an issue in this repository or reach out via email**
+- ⚡ Fun fact: **I can debug code in my sleep (or at least, I dream about it!)**
 
 ---
 
@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh30-bit&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -63,6 +63,6 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabh30-bit&theme=radical" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saurabh30-bit&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
