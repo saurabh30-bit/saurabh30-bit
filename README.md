@@ -4,8 +4,9 @@
   Then, copy the contents of this file into the README.md of that repository.
 -->
 
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm Saurabh Shinde</h1>
+<p align="center"><i>(he/him)</i></p>
+<h3 align="center">Full-Stack Developer passionate about building scalable web applications, real-time systems, and AI integrations.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saurabh30-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
