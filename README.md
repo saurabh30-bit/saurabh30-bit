@@ -50,12 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh30-bit&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh30-bit&theme=radical&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api/top-langs/?username=saurabh30-bit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api/top-langs/?username=saurabh30-bit&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-cyan-nine.vercel.app/?username=saurabh30-bit&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-cyan-nine.vercel.app/?username=saurabh30-bit&theme=radical&no-frame=true&no-bg=true&v=1" alt="GitHub Trophies" />
   </a>
 </p>
 
