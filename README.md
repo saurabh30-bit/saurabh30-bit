@@ -58,8 +58,9 @@
   <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api/top-langs/?username=saurabh30-bit&layout=compact&theme=radical&v=2" alt="Top Languages" />
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/main/github-metrics.svg" alt="Metrics" />
+</p>
 
 ---
 
