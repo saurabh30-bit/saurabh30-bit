@@ -13,14 +13,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Make a dummy change
-        run: |
-          echo "# Daily auto commit at $(date)" >> src/main.py
-
-      - name: Commit and push
+      - name: Make random commits and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/main.py
-          git commit -m "Auto daily commit for contribution graph" || exit 0
+          
+          RANDOM_EXTRA=$(( RANDOM % 10 ))
+          TOTAL_COMMITS=$(( 20 + RANDOM_EXTRA ))
+          
+          for i in $(seq 1 $TOTAL_COMMITS); do
+            echo "# Daily auto commit number $i at $(date)" >> src/main.py
+            git add src/main.py
+            git commit -m "Auto daily commit $i"
+          done
+          
           git push
