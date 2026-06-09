@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Simple Mood Tracking App That Actually Helped Me Understand My Emotions](https://dev.to/moodflow/i-built-a-simple-mood-tracking-app-that-actually-helped-me-understand-my-emotions-1pf8)
-- [Which Gadget Accessories Are Best for Work-From-Home Setups?](https://dev.to/seo_wrapcart_c35569daf7ea/which-gadget-accessories-are-best-for-work-from-home-setups-5d8d)
-- [How to Build a Bulletproof Shopify Cart Event Listener &lpar;Without App Conflict&rpar;](https://dev.to/xerxes_53cb736b854a4c1525/how-to-build-a-bulletproof-shopify-cart-event-listener-without-app-conflict-4kig)
-- [That Small Obsession](https://dev.to/manager_log/that-small-obsession-1p41)
-- [Why Your React Frontend Crashes When an LLM Streams Malformed JSON](https://dev.to/gaurav_thorat_669a72b30ba/why-your-react-frontend-crashes-when-an-llm-streams-malformed-json-1k69)
+- [O Risco Supremo do Bloqueio de Canais Oficiais](https://dev.to/erick_martins_56d3ce2af97/o-risco-supremo-do-bloqueio-de-canais-oficiais-57hi)
+- [O Risco Supremo do Bloqueio de Canais Oficiais](https://dev.to/erick_martins_56d3ce2af97/o-risco-supremo-do-bloqueio-de-canais-oficiais-57hi)
+- [5 Org Chart Mistakes That Are Killing ROI in the AI and Agent Era](https://dev.to/talweezy/5-org-chart-mistakes-that-are-killing-roi-in-the-ai-and-agent-era-24b4)
+- [AI Pin Maker — multi-model AI studio for image, video, and custom pin design &lpar;just shipped&rpar;](https://dev.to/axis_ai_e6da5000accb532b4/ai-pin-maker-multi-model-ai-studio-for-image-video-and-custom-pin-design-just-shipped-2pob)
+- [AI Pin Maker — multi-model AI studio for image, video, and custom pin design &lpar;just shipped&rpar;](https://dev.to/axis_ai_e6da5000accb532b4/ai-pin-maker-multi-model-ai-studio-for-image-video-and-custom-pin-design-just-shipped-2pob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
