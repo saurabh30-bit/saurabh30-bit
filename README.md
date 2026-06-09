@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana NFTs Without Metaplex: What I Built with Token Extensions published](https://dev.to/lymah/solana-nfts-without-metaplex-what-i-built-with-token-extensionspublished-7do)
-- [Best Digital Marketing Agency in Delhi – Orvyn Studio](https://dev.to/orvyn_d2018ac0853740d4e7c/best-digital-marketing-agency-in-delhi-orvyn-studio-16mi)
-- [Free Gun Safe From the County? Ask These 2 Questions First.](https://dev.to/caracomp/free-gun-safe-from-the-county-ask-these-2-questions-first-3803)
-- [The math of multi-model consensus: when 3 cheap reviews beat 1 expensive one](https://dev.to/brianmello/the-math-of-multi-model-consensus-when-3-cheap-reviews-beat-1-expensive-one-5997)
-- [In-Depth Analysis: Patrick Collison&#39;s LLM Workflow…](https://dev.to/norviktech/in-depth-analysis-patrick-collisons-llm-workflow-413h)
+- [We built x402 middleware before the hyperscalers fragmented the standard](https://dev.to/victordflos/we-built-x402-middleware-before-the-hyperscalers-fragmented-the-standard-8b8)
+- [Top 34 Best Website Purchase Old Gmail Accounts ...](https://dev.to/pallalakeshia/top-34-best-website-purchase-old-gmail-accounts--25bk)
+- [7 Best Platforms To Buy Verified Gmail Accounts &lpar;Aged or ...](https://dev.to/pallalakeshia/7-best-platforms-to-buy-verified-gmail-accounts-aged-or--jc7)
+- [Building a Cloud-Native Multimedia Archive with Angular, Bun, AWS Fargate and Amazon Transcribe](https://dev.to/jesusrodrigo/building-a-cloud-native-multimedia-archive-with-angular-bun-aws-fargate-and-amazon-transcribe-15pk)
+- [Why I stopped self-hosting Uptime Kuma and built a hosted alternative](https://dev.to/vladislavs_vrubevskis_3c/why-i-stopped-self-hosting-uptime-kuma-and-built-a-hosted-alternative-1a1p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
