@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [O Risco Supremo do Bloqueio de Canais Oficiais](https://dev.to/erick_martins_56d3ce2af97/o-risco-supremo-do-bloqueio-de-canais-oficiais-57hi)
-- [O Risco Supremo do Bloqueio de Canais Oficiais](https://dev.to/erick_martins_56d3ce2af97/o-risco-supremo-do-bloqueio-de-canais-oficiais-57hi)
-- [5 Org Chart Mistakes That Are Killing ROI in the AI and Agent Era](https://dev.to/talweezy/5-org-chart-mistakes-that-are-killing-roi-in-the-ai-and-agent-era-24b4)
-- [AI Pin Maker — multi-model AI studio for image, video, and custom pin design &lpar;just shipped&rpar;](https://dev.to/axis_ai_e6da5000accb532b4/ai-pin-maker-multi-model-ai-studio-for-image-video-and-custom-pin-design-just-shipped-2pob)
-- [AI Pin Maker — multi-model AI studio for image, video, and custom pin design &lpar;just shipped&rpar;](https://dev.to/axis_ai_e6da5000accb532b4/ai-pin-maker-multi-model-ai-studio-for-image-video-and-custom-pin-design-just-shipped-2pob)
+- [Solana NFTs Without Metaplex: What I Built with Token Extensions published](https://dev.to/lymah/solana-nfts-without-metaplex-what-i-built-with-token-extensionspublished-7do)
+- [Best Digital Marketing Agency in Delhi – Orvyn Studio](https://dev.to/orvyn_d2018ac0853740d4e7c/best-digital-marketing-agency-in-delhi-orvyn-studio-16mi)
+- [Free Gun Safe From the County? Ask These 2 Questions First.](https://dev.to/caracomp/free-gun-safe-from-the-county-ask-these-2-questions-first-3803)
+- [The math of multi-model consensus: when 3 cheap reviews beat 1 expensive one](https://dev.to/brianmello/the-math-of-multi-model-consensus-when-3-cheap-reviews-beat-1-expensive-one-5997)
+- [In-Depth Analysis: Patrick Collison&#39;s LLM Workflow…](https://dev.to/norviktech/in-depth-analysis-patrick-collisons-llm-workflow-413h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
