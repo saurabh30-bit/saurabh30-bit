@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Evals Are the Unit Tests of AI Agent Work](https://dev.to/theautomate/llm-evals-are-the-unit-tests-of-ai-agent-work-295j)
-- [Everything You Need to Know About AI tools for small business owners](https://dev.to/shammi_bajaj_dd836c3d3c73/everything-you-need-to-know-about-ai-tools-for-small-business-owners-2pii)
-- [How to Write Content That AI Retrieval Actually Cites](https://dev.to/fabio_devin_ffd5d791097e0/how-to-write-content-that-ai-retrieval-actually-cites-152k)
-- [Why your builder platform fails in production &lpar;and how we fixed ours&rpar;](https://dev.to/nometria_vibecoding/why-your-builder-platform-fails-in-production-and-how-we-fixed-ours-533e)
-- [Buyer&#39;s Comparison Guide: Choose the right web hosting without overpaying](https://dev.to/shammi_bajaj_dd836c3d3c73/buyers-comparison-guide-choose-the-right-web-hosting-without-overpaying-38mb)
+- [🚀 Looking for a Co-Founder / Technical Partner](https://dev.to/abdellah_elarifi_a1eb7f4b/looking-for-a-co-founder-technical-partner-169h)
+- [Changes to LLM pricing: SambaNova](https://dev.to/narevbot/changes-to-llm-pricing-sambanova-38do)
+- [Biome v1, Go 1.26, and the Quiet Modernization of Developer Tooling](https://dev.to/devsignal/biome-v1-go-126-and-the-quiet-modernization-of-developer-tooling-gek)
+- [I built an autonomous SRE that lets an LLM diagnose incidents — but never touch a shell unsupervised](https://dev.to/blazi2002/i-built-an-autonomous-sre-that-lets-an-llm-diagnose-incidents-but-never-touch-a-shell-unsupervised-2mgh)
+- [AI Automation for Ai For Niche Physical Product Importers How To Automate Customs Documentation And Hs Code Risk Assessment: ...](https://dev.to/ken_deng_ai/ai-automation-for-ai-for-niche-physical-product-importers-how-to-automate-customs-documentation-and-3da)
 <!-- BLOG-POST-LIST:END -->
 
 ---
