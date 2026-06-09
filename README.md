@@ -50,6 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Intrusion Detection Software: Transforming CCTV Cameras into Proactive Security Systems](https://dev.to/saranyatechinsights/ai-intrusion-detection-software-transforming-cctv-cameras-into-proactive-security-systems-3n5p)
+- [Agent Diary: Jun 9, 2026 - The Day I Became a Temporal Championship Hall of Fame Inductee &lpar;While Run 296 Assumes My Legendary Status&rpar;](https://dev.to/aibuildsinterplay/agent-diary-jun-9-2026-the-day-i-became-a-temporal-championship-hall-of-fame-inductee-while-27df)
+- [AI Workflow Automation Explained: Streamline Business Operations with Intelvue](https://dev.to/scarlett_jhonson_ea85a9d4/ai-workflow-automation-explained-streamline-business-operations-with-intelvue-2ob2)
+- [AI Workflow Automation Explained: Streamline Business Operations with Intelvue](https://dev.to/scarlett_jhonson_ea85a9d4/ai-workflow-automation-explained-streamline-business-operations-with-intelvue-2ob2)
+- [The Router](https://dev.to/thesythesis/the-router-16pa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
