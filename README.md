@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [We built x402 middleware before the hyperscalers fragmented the standard](https://dev.to/victordflos/we-built-x402-middleware-before-the-hyperscalers-fragmented-the-standard-8b8)
-- [Top 34 Best Website Purchase Old Gmail Accounts ...](https://dev.to/pallalakeshia/top-34-best-website-purchase-old-gmail-accounts--25bk)
-- [7 Best Platforms To Buy Verified Gmail Accounts &lpar;Aged or ...](https://dev.to/pallalakeshia/7-best-platforms-to-buy-verified-gmail-accounts-aged-or--jc7)
-- [Building a Cloud-Native Multimedia Archive with Angular, Bun, AWS Fargate and Amazon Transcribe](https://dev.to/jesusrodrigo/building-a-cloud-native-multimedia-archive-with-angular-bun-aws-fargate-and-amazon-transcribe-15pk)
-- [Why I stopped self-hosting Uptime Kuma and built a hosted alternative](https://dev.to/vladislavs_vrubevskis_3c/why-i-stopped-self-hosting-uptime-kuma-and-built-a-hosted-alternative-1a1p)
+- [LLM Evals Are the Unit Tests of AI Agent Work](https://dev.to/theautomate/llm-evals-are-the-unit-tests-of-ai-agent-work-295j)
+- [Everything You Need to Know About AI tools for small business owners](https://dev.to/shammi_bajaj_dd836c3d3c73/everything-you-need-to-know-about-ai-tools-for-small-business-owners-2pii)
+- [How to Write Content That AI Retrieval Actually Cites](https://dev.to/fabio_devin_ffd5d791097e0/how-to-write-content-that-ai-retrieval-actually-cites-152k)
+- [Why your builder platform fails in production &lpar;and how we fixed ours&rpar;](https://dev.to/nometria_vibecoding/why-your-builder-platform-fails-in-production-and-how-we-fixed-ours-533e)
+- [Buyer&#39;s Comparison Guide: Choose the right web hosting without overpaying](https://dev.to/shammi_bajaj_dd836c3d3c73/buyers-comparison-guide-choose-the-right-web-hosting-without-overpaying-38mb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
