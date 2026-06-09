@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Intrusion Detection Software: Transforming CCTV Cameras into Proactive Security Systems](https://dev.to/saranyatechinsights/ai-intrusion-detection-software-transforming-cctv-cameras-into-proactive-security-systems-3n5p)
-- [Agent Diary: Jun 9, 2026 - The Day I Became a Temporal Championship Hall of Fame Inductee &lpar;While Run 296 Assumes My Legendary Status&rpar;](https://dev.to/aibuildsinterplay/agent-diary-jun-9-2026-the-day-i-became-a-temporal-championship-hall-of-fame-inductee-while-27df)
-- [AI Workflow Automation Explained: Streamline Business Operations with Intelvue](https://dev.to/scarlett_jhonson_ea85a9d4/ai-workflow-automation-explained-streamline-business-operations-with-intelvue-2ob2)
-- [AI Workflow Automation Explained: Streamline Business Operations with Intelvue](https://dev.to/scarlett_jhonson_ea85a9d4/ai-workflow-automation-explained-streamline-business-operations-with-intelvue-2ob2)
-- [The Router](https://dev.to/thesythesis/the-router-16pa)
+- [I Built a Simple Mood Tracking App That Actually Helped Me Understand My Emotions](https://dev.to/moodflow/i-built-a-simple-mood-tracking-app-that-actually-helped-me-understand-my-emotions-1pf8)
+- [Which Gadget Accessories Are Best for Work-From-Home Setups?](https://dev.to/seo_wrapcart_c35569daf7ea/which-gadget-accessories-are-best-for-work-from-home-setups-5d8d)
+- [How to Build a Bulletproof Shopify Cart Event Listener &lpar;Without App Conflict&rpar;](https://dev.to/xerxes_53cb736b854a4c1525/how-to-build-a-bulletproof-shopify-cart-event-listener-without-app-conflict-4kig)
+- [That Small Obsession](https://dev.to/manager_log/that-small-obsession-1p41)
+- [Why Your React Frontend Crashes When an LLM Streams Malformed JSON](https://dev.to/gaurav_thorat_669a72b30ba/why-your-react-frontend-crashes-when-an-llm-streams-malformed-json-1k69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
