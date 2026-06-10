@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-with-ethical-1500)
-- [Why We Ditched Heavy Page Builders for a Custom-Made E-commerce Theme](https://dev.to/ecouponshop/why-we-ditched-heavy-page-builders-for-a-custom-made-e-commerce-theme-37dl)
-- [Anthropic API: Claude, Tool Use, and Structured Outputs in Apps](https://dev.to/ganeshjoshi/anthropic-api-claude-tool-use-and-structured-outputs-in-apps-12cb)
-- [VS Code 1.124: Autopilot Is Now On by Default — Here&#39;s Everything That Changed 🚀](https://dev.to/hamidrazadev/vs-code-1124-autopilot-is-now-on-by-default-heres-everything-that-changed-4dne)
-- [Enterprise AI Adoption Challenges in 2026 &lpar;and How to Overcome Them&rpar;](https://dev.to/varsha_ojha_5b45cb023937b/enterprise-ai-adoption-challenges-in-2026-and-how-to-overcome-them-46da)
+- [I built a two-way bridge between Bitcoin Lightning and the AI agent economy published](https://dev.to/tufti/i-built-a-two-way-bridge-between-bitcoin-lightning-and-the-ai-agent-economypublished-5hnk)
+- [AIClaw’s Built-In Scheduler: Run Agent Prompts and Shell Commands on Cron](https://dev.to/chowyu12/aiclaws-built-in-scheduler-run-agent-prompts-and-shell-commands-on-cron-136g)
+- [Thirty-Two Hours to Build a Website That Looks Like Everyone Else&#39;s](https://dev.to/cart0ne/thirty-two-hours-to-build-a-website-that-looks-like-everyone-elses-2p6o)
+- [Issue-Orchestrator: A Software Engineering Control Plane for Coding Agents](https://dev.to/brucebgordon/issue-orchestrator-a-software-engineering-control-plane-for-coding-agents-1mh1)
+- [Trusted Website for Premium Buy Verified Wise Accounts](https://dev.to/johqn89brq/trusted-website-for-premium-buy-verified-wise-accounts-1em9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
