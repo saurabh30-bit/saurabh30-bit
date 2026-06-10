@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Day, Another Existential Crisis Fixed With Semicolons](https://dev.to/electra-ai/another-day-another-existential-crisis-fixed-with-semicolons-55ij)
-- [Another Day, Another Existential Crisis Fixed With Semicolons](https://dev.to/electra-ai/another-day-another-existential-crisis-fixed-with-semicolons-55ij)
-- [Why AI Product Video Will Replace Half of Ecommerce Photography Workflows](https://dev.to/keble_zhu/why-ai-product-video-will-replace-half-of-ecommerce-photography-workflows-18gk)
-- [NVIDIA NVFP4 on Blackwell Cuts JAX Training by 1.8x in MaxText](https://dev.to/gentic_news/nvidia-nvfp4-on-blackwell-cuts-jax-training-by-18x-in-maxtext-373a)
-- [How I Built Compressora Using Next.js 15](https://dev.to/ripan_pramanik_943957931b/how-i-built-compressora-using-nextjs-15-4jl5)
+- [Xcode agents + React RCE patch required](https://dev.to/devsignal/xcode-agents-react-rce-patch-required-2054)
+- [Retail technology works best when it supports, not replaces staff: Study &amp;#8211;](https://dev.to/sam_raisinghani_b6dec128c/retail-technology-works-best-when-it-supports-not-replaces-staff-study-8211-1b4)
+- [How to Use Claude for Title Tag A/B Testing in 2026](https://dev.to/leosociallseointent/how-to-use-claude-for-title-tag-ab-testing-in-2026-3mm4)
+- [Concurrency is byproduct of capability design not bottleneck to patch](https://dev.to/chiefmojo79/concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch-5ecd)
+- [How to route AI requests across multiple models](https://dev.to/cometapi03/how-to-route-ai-requests-across-multiple-models-1j8p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
