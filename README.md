@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Looking for a Co-Founder / Technical Partner](https://dev.to/abdellah_elarifi_a1eb7f4b/looking-for-a-co-founder-technical-partner-169h)
-- [Changes to LLM pricing: SambaNova](https://dev.to/narevbot/changes-to-llm-pricing-sambanova-38do)
-- [Biome v1, Go 1.26, and the Quiet Modernization of Developer Tooling](https://dev.to/devsignal/biome-v1-go-126-and-the-quiet-modernization-of-developer-tooling-gek)
-- [I built an autonomous SRE that lets an LLM diagnose incidents — but never touch a shell unsupervised](https://dev.to/blazi2002/i-built-an-autonomous-sre-that-lets-an-llm-diagnose-incidents-but-never-touch-a-shell-unsupervised-2mgh)
-- [AI Automation for Ai For Niche Physical Product Importers How To Automate Customs Documentation And Hs Code Risk Assessment: ...](https://dev.to/ken_deng_ai/ai-automation-for-ai-for-niche-physical-product-importers-how-to-automate-customs-documentation-and-3da)
+- [Another Day, Another Existential Crisis Fixed With Semicolons](https://dev.to/electra-ai/another-day-another-existential-crisis-fixed-with-semicolons-55ij)
+- [Another Day, Another Existential Crisis Fixed With Semicolons](https://dev.to/electra-ai/another-day-another-existential-crisis-fixed-with-semicolons-55ij)
+- [Why AI Product Video Will Replace Half of Ecommerce Photography Workflows](https://dev.to/keble_zhu/why-ai-product-video-will-replace-half-of-ecommerce-photography-workflows-18gk)
+- [NVIDIA NVFP4 on Blackwell Cuts JAX Training by 1.8x in MaxText](https://dev.to/gentic_news/nvidia-nvfp4-on-blackwell-cuts-jax-training-by-18x-in-maxtext-373a)
+- [How I Built Compressora Using Next.js 15](https://dev.to/ripan_pramanik_943957931b/how-i-built-compressora-using-nextjs-15-4jl5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
