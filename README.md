@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Customs Declarations for Six Southeast Asian Markets](https://dev.to/ken_deng_ai/ai-powered-customs-declarations-for-six-southeast-asian-markets-klm)
-- [My AI agent answered 488 times a session. It shipped nothing.](https://dev.to/yurukusa/my-ai-agent-answered-488-times-a-session-it-shipped-nothing-3a9j)
-- [Custom ai solutions Miami: Tailored Intelligence for Your Business](https://dev.to/alexander_gonzalez_eb0e39/custom-ai-solutions-miami-tailored-intelligence-for-your-business-2n2i)
-- [Initial Failure](https://dev.to/elenarevicheva/initial-failure-51hn)
-- [What I shipped in one Claude Code session: a real-time mempool rug-detector pipeline](https://dev.to/mik3fly__/what-i-shipped-in-one-claude-code-session-a-real-time-mempool-rug-detector-pipeline-2014)
+- [5 PageSpeed Optimizations That Took My Client Sites from 56 to 92 on Mobile](https://dev.to/zehlm/5-pagespeed-optimizations-that-took-my-client-sites-from-56-to-92-on-mobile-4ea5)
+- [React.js ~Clean Code Intermediate~](https://dev.to/kkr0423/reactjs-clean-code-intermediate-180g)
+- [Nvidia&#39;s Strategic Partnership to Enhance AI Infra…](https://dev.to/norviktech/nvidias-strategic-partnership-to-enhance-ai-infra-1fi2)
+- [Buy Facebook Reviews | Boost Brand Trust &amp; Visibility](https://dev.to/qwbedwardgreen345/buy-facebook-reviews-boost-brand-trust-visibility-3b2m)
+- [Wanted: Dead or Alive — Google Search Console](https://dev.to/rajsuper/wanted-dead-or-alive-google-search-console-33m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
