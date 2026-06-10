@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Xcode agents + React RCE patch required](https://dev.to/devsignal/xcode-agents-react-rce-patch-required-2054)
-- [Retail technology works best when it supports, not replaces staff: Study &amp;#8211;](https://dev.to/sam_raisinghani_b6dec128c/retail-technology-works-best-when-it-supports-not-replaces-staff-study-8211-1b4)
-- [How to Use Claude for Title Tag A/B Testing in 2026](https://dev.to/leosociallseointent/how-to-use-claude-for-title-tag-ab-testing-in-2026-3mm4)
-- [Concurrency is byproduct of capability design not bottleneck to patch](https://dev.to/chiefmojo79/concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch-5ecd)
-- [How to route AI requests across multiple models](https://dev.to/cometapi03/how-to-route-ai-requests-across-multiple-models-1j8p)
+- [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-with-ethical-1500)
+- [Why We Ditched Heavy Page Builders for a Custom-Made E-commerce Theme](https://dev.to/ecouponshop/why-we-ditched-heavy-page-builders-for-a-custom-made-e-commerce-theme-37dl)
+- [Anthropic API: Claude, Tool Use, and Structured Outputs in Apps](https://dev.to/ganeshjoshi/anthropic-api-claude-tool-use-and-structured-outputs-in-apps-12cb)
+- [VS Code 1.124: Autopilot Is Now On by Default — Here&#39;s Everything That Changed 🚀](https://dev.to/hamidrazadev/vs-code-1124-autopilot-is-now-on-by-default-heres-everything-that-changed-4dne)
+- [Enterprise AI Adoption Challenges in 2026 &lpar;and How to Overcome Them&rpar;](https://dev.to/varsha_ojha_5b45cb023937b/enterprise-ai-adoption-challenges-in-2026-and-how-to-overcome-them-46da)
 <!-- BLOG-POST-LIST:END -->
 
 ---
