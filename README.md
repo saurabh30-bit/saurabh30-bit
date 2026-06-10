@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a two-way bridge between Bitcoin Lightning and the AI agent economy published](https://dev.to/tufti/i-built-a-two-way-bridge-between-bitcoin-lightning-and-the-ai-agent-economypublished-5hnk)
-- [AIClaw’s Built-In Scheduler: Run Agent Prompts and Shell Commands on Cron](https://dev.to/chowyu12/aiclaws-built-in-scheduler-run-agent-prompts-and-shell-commands-on-cron-136g)
-- [Thirty-Two Hours to Build a Website That Looks Like Everyone Else&#39;s](https://dev.to/cart0ne/thirty-two-hours-to-build-a-website-that-looks-like-everyone-elses-2p6o)
-- [Issue-Orchestrator: A Software Engineering Control Plane for Coding Agents](https://dev.to/brucebgordon/issue-orchestrator-a-software-engineering-control-plane-for-coding-agents-1mh1)
-- [Trusted Website for Premium Buy Verified Wise Accounts](https://dev.to/johqn89brq/trusted-website-for-premium-buy-verified-wise-accounts-1em9)
+- [AI-Powered Customs Declarations for Six Southeast Asian Markets](https://dev.to/ken_deng_ai/ai-powered-customs-declarations-for-six-southeast-asian-markets-klm)
+- [My AI agent answered 488 times a session. It shipped nothing.](https://dev.to/yurukusa/my-ai-agent-answered-488-times-a-session-it-shipped-nothing-3a9j)
+- [Custom ai solutions Miami: Tailored Intelligence for Your Business](https://dev.to/alexander_gonzalez_eb0e39/custom-ai-solutions-miami-tailored-intelligence-for-your-business-2n2i)
+- [Initial Failure](https://dev.to/elenarevicheva/initial-failure-51hn)
+- [What I shipped in one Claude Code session: a real-time mempool rug-detector pipeline](https://dev.to/mik3fly__/what-i-shipped-in-one-claude-code-session-a-real-time-mempool-rug-detector-pipeline-2014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
