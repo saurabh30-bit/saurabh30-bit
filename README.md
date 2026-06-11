@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of Vibe Coding: Why I Switched to Structured AI Workflows](https://dev.to/pizza_cat/the-end-of-vibe-coding-why-i-switched-to-structured-ai-workflows-38j6)
-- [Why I Stopped Using Cursor for Production Code &lpar;And What I Use Now&rpar;](https://dev.to/raxxostudios/why-i-stopped-using-cursor-for-production-code-and-what-i-use-now-58dj)
-- [Boosting Productivity: The Surprising Link Between Indoor Air Quality and Success](https://dev.to/yagyaraj_sharma_6cd410179/boosting-productivity-the-surprising-link-between-indoor-air-quality-and-success-354o)
-- [Everything that breaks when you mirror a Webflow site &lpar;and the fixes&rpar;](https://dev.to/stevysmith/everything-that-breaks-when-you-mirror-a-webflow-site-and-the-fixes-1c65)
-- [Everything that breaks when you mirror a Webflow site &lpar;and the fixes&rpar;](https://dev.to/stevysmith/everything-that-breaks-when-you-mirror-a-webflow-site-and-the-fixes-1c65)
+- [Introducing NP Radar: A Domain Intelligence Platform for Nepal&#39;s .NP Ecosystem](https://dev.to/laxmanpoudel/introducing-np-radar-a-domain-intelligence-platform-for-nepals-np-ecosystem-epp)
+- [I went into my OpenAI SWE loop prepared for system design. The values round is what tripped me up.](https://dev.to/alex_bell_f2b96166c2d62f5/i-went-into-my-openai-swe-loop-prepared-for-system-design-the-values-round-is-what-tripped-me-up-4lbj)
+- [How to Hire Senior AI/ML Engineers Remotely in 2026 &lpar;Without Paying $200/hr&rpar;](https://dev.to/chirag_sharma_11a97ed21d3/how-to-hire-senior-aiml-engineers-remotely-in-2026-without-paying-200hr-3bg7)
+- [I Compared 7 AI Observability Platforms So You Don’t Have To &lpar;2026 Edition&rpar;](https://dev.to/parth_sarthisharma_105e7/i-compared-7-ai-observability-platforms-so-you-dont-have-to-2026-edition-3jdc)
+- [Top Sports Betting Strategies for Beginners Using Live Streaming Apps](https://dev.to/alan_james_35e491d20632c8/top-sports-betting-strategies-for-beginners-using-live-streaming-apps-cf3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
