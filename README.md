@@ -50,11 +50,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [5 PageSpeed Optimizations That Took My Client Sites from 56 to 92 on Mobile](https://dev.to/zehlm/5-pagespeed-optimizations-that-took-my-client-sites-from-56-to-92-on-mobile-4ea5)
-- [React.js ~Clean Code Intermediate~](https://dev.to/kkr0423/reactjs-clean-code-intermediate-180g)
-- [Nvidia&#39;s Strategic Partnership to Enhance AI Infra…](https://dev.to/norviktech/nvidias-strategic-partnership-to-enhance-ai-infra-1fi2)
-- [Buy Facebook Reviews | Boost Brand Trust &amp; Visibility](https://dev.to/qwbedwardgreen345/buy-facebook-reviews-boost-brand-trust-visibility-3b2m)
-- [Wanted: Dead or Alive — Google Search Console](https://dev.to/rajsuper/wanted-dead-or-alive-google-search-console-33m4)
+- [The End of Vibe Coding: Why I Switched to Structured AI Workflows](https://dev.to/pizza_cat/the-end-of-vibe-coding-why-i-switched-to-structured-ai-workflows-38j6)
+- [Why I Stopped Using Cursor for Production Code &lpar;And What I Use Now&rpar;](https://dev.to/raxxostudios/why-i-stopped-using-cursor-for-production-code-and-what-i-use-now-58dj)
+- [Boosting Productivity: The Surprising Link Between Indoor Air Quality and Success](https://dev.to/yagyaraj_sharma_6cd410179/boosting-productivity-the-surprising-link-between-indoor-air-quality-and-success-354o)
+- [Everything that breaks when you mirror a Webflow site &lpar;and the fixes&rpar;](https://dev.to/stevysmith/everything-that-breaks-when-you-mirror-a-webflow-site-and-the-fixes-1c65)
+- [Everything that breaks when you mirror a Webflow site &lpar;and the fixes&rpar;](https://dev.to/stevysmith/everything-that-breaks-when-you-mirror-a-webflow-site-and-the-fixes-1c65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
