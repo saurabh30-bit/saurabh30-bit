@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I gave my AI agent a boss: a human-approval gate in Slack, over MCP](https://dev.to/_76130e67067eab4c8510/i-gave-my-ai-agent-a-boss-a-human-approval-gate-in-slack-over-mcp-5age)
-- [How AI Attackers Are Using Agents](https://dev.to/scott_mcmahan_d085ae6e508/how-ai-attackers-are-using-agents-i6o)
-- [Benefits of AI Testing Tools with Comprehensive Free Tiers](https://dev.to/jennyk1025/benefits-of-ai-testing-tools-with-comprehensive-free-tiers-4c6l)
-- [The AI coding dashboard I wanted was not a dashboard](https://dev.to/johns23424234324234/the-ai-coding-dashboard-i-wanted-was-not-a-dashboard-1h9d)
-- [Top 3 Sites to Buy, Old Gmail Accounts - PVA Aged](https://dev.to/topsmmonline7454/top-3-sites-to-buy-old-gmail-accounts-pva-aged-i8d)
+- [Introducing Duplex: A Zero-Backend, Multiplexed LLM Inference Engine for True Client-Side Parallel AI](https://dev.to/gurutva_murdia/introducing-duplex-a-zero-backend-multiplexed-llm-inference-engine-for-true-client-side-parallel-3hbl)
+- [What we provide:](https://dev.to/trishvora_groups/what-we-provide-531n)
+- [I Replaced 10 Chrome Extensions With One Website](https://dev.to/lidevtools/i-replaced-10-chrome-extensions-with-one-website-djg)
+- [Claude Fable 5 Underperforms in Coding Tasks: Low Functional and Security Solve Accuracy Highlighted](https://dev.to/kserude/claude-fable-5-underperforms-in-coding-tasks-low-functional-and-security-solve-accuracy-highlighted-cpk)
+- [Playtv4k](https://dev.to/playtv4k/playtv4k-23g9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
