@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing NP Radar: A Domain Intelligence Platform for Nepal&#39;s .NP Ecosystem](https://dev.to/laxmanpoudel/introducing-np-radar-a-domain-intelligence-platform-for-nepals-np-ecosystem-epp)
-- [I went into my OpenAI SWE loop prepared for system design. The values round is what tripped me up.](https://dev.to/alex_bell_f2b96166c2d62f5/i-went-into-my-openai-swe-loop-prepared-for-system-design-the-values-round-is-what-tripped-me-up-4lbj)
-- [How to Hire Senior AI/ML Engineers Remotely in 2026 &lpar;Without Paying $200/hr&rpar;](https://dev.to/chirag_sharma_11a97ed21d3/how-to-hire-senior-aiml-engineers-remotely-in-2026-without-paying-200hr-3bg7)
-- [I Compared 7 AI Observability Platforms So You Don’t Have To &lpar;2026 Edition&rpar;](https://dev.to/parth_sarthisharma_105e7/i-compared-7-ai-observability-platforms-so-you-dont-have-to-2026-edition-3jdc)
-- [Top Sports Betting Strategies for Beginners Using Live Streaming Apps](https://dev.to/alan_james_35e491d20632c8/top-sports-betting-strategies-for-beginners-using-live-streaming-apps-cf3)
+- [Day 21 of Leaning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-21-of-leaning-mern-stack-3lb6)
+- [Day 21 of Leaning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-21-of-leaning-mern-stack-3lb6)
+- [Things You Need to Know Before Trying to Teach Your Kid to Code](https://dev.to/mr_dantes_20369336a60fa/things-you-need-to-know-before-trying-to-teach-your-kid-to-code-3poi)
+- [Things You Need to Know Before Trying to Teach Your Kid to Code](https://dev.to/mr_dantes_20369336a60fa/things-you-need-to-know-before-trying-to-teach-your-kid-to-code-3poi)
+- [Google&#39;s 100k Follower Wall: Why GEO Is the Indie Dev&#39;s Best Bet in 2026](https://dev.to/digital-abetka/googles-100k-follower-wall-why-geo-is-the-indie-devs-best-bet-in-2026-2597)
 <!-- BLOG-POST-LIST:END -->
 
 ---
