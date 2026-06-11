@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 21 of Leaning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-21-of-leaning-mern-stack-3lb6)
-- [Day 21 of Leaning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-21-of-leaning-mern-stack-3lb6)
-- [Things You Need to Know Before Trying to Teach Your Kid to Code](https://dev.to/mr_dantes_20369336a60fa/things-you-need-to-know-before-trying-to-teach-your-kid-to-code-3poi)
-- [Things You Need to Know Before Trying to Teach Your Kid to Code](https://dev.to/mr_dantes_20369336a60fa/things-you-need-to-know-before-trying-to-teach-your-kid-to-code-3poi)
-- [Google&#39;s 100k Follower Wall: Why GEO Is the Indie Dev&#39;s Best Bet in 2026](https://dev.to/digital-abetka/googles-100k-follower-wall-why-geo-is-the-indie-devs-best-bet-in-2026-2597)
+- [I gave my AI agent a boss: a human-approval gate in Slack, over MCP](https://dev.to/_76130e67067eab4c8510/i-gave-my-ai-agent-a-boss-a-human-approval-gate-in-slack-over-mcp-5age)
+- [How AI Attackers Are Using Agents](https://dev.to/scott_mcmahan_d085ae6e508/how-ai-attackers-are-using-agents-i6o)
+- [Benefits of AI Testing Tools with Comprehensive Free Tiers](https://dev.to/jennyk1025/benefits-of-ai-testing-tools-with-comprehensive-free-tiers-4c6l)
+- [The AI coding dashboard I wanted was not a dashboard](https://dev.to/johns23424234324234/the-ai-coding-dashboard-i-wanted-was-not-a-dashboard-1h9d)
+- [Top 3 Sites to Buy, Old Gmail Accounts - PVA Aged](https://dev.to/topsmmonline7454/top-3-sites-to-buy-old-gmail-accounts-pva-aged-i8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
