@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Observability in the Agentic Era](https://dev.to/parthiv_mathur/rethinking-observability-in-the-agentic-era-401i)
-- [Grammarly Business Pricing 2025: Plans, Per-Seat Cost and Team Discounts](https://dev.to/stevenclarkwoods44/grammarly-business-pricing-2025-plans-per-seat-cost-and-team-discounts-mgb)
-- [Building Real Income Through Communities: My Approach to Recurring Affiliate Programs](https://dev.to/coolflux/building-real-income-through-communities-my-approach-to-recurring-affiliate-programs-4of2)
-- [Building AI-powered code review bots with GitHub Apps and LLMs](https://dev.to/therizwansaleem/building-ai-powered-code-review-bots-with-github-apps-and-llms-26l3)
-- [Why Comprehensive Code Review Matters More Than You Think](https://dev.to/constanza_diaz_dev/why-comprehensive-code-review-matters-more-than-you-think-55ho)
+- [Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial](https://dev.to/caper_dev/build-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial-2bea)
+- [The Fizzle](https://dev.to/thesythesis/the-fizzle-5590)
+- [Introducing Pulse — the AI-powered business opportunity network on BizNode. Register your services free, get notified when...](https://dev.to/biznode/introducing-pulse-the-ai-powered-business-opportunity-network-on-biznode-register-your-services-57cf)
+- [Structural exclusion is the only defense that scales](https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-4g73)
+- [How to Use ChatGPT for Sales Proposal Writing &lpar;2024&rpar;](https://dev.to/stevenclarkwoods44/how-to-use-chatgpt-for-sales-proposal-writing-2024-2lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
