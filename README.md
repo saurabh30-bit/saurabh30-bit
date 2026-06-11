@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Duplex: A Zero-Backend, Multiplexed LLM Inference Engine for True Client-Side Parallel AI](https://dev.to/gurutva_murdia/introducing-duplex-a-zero-backend-multiplexed-llm-inference-engine-for-true-client-side-parallel-3hbl)
-- [What we provide:](https://dev.to/trishvora_groups/what-we-provide-531n)
-- [I Replaced 10 Chrome Extensions With One Website](https://dev.to/lidevtools/i-replaced-10-chrome-extensions-with-one-website-djg)
-- [Claude Fable 5 Underperforms in Coding Tasks: Low Functional and Security Solve Accuracy Highlighted](https://dev.to/kserude/claude-fable-5-underperforms-in-coding-tasks-low-functional-and-security-solve-accuracy-highlighted-cpk)
-- [Playtv4k](https://dev.to/playtv4k/playtv4k-23g9)
+- [Rethinking Observability in the Agentic Era](https://dev.to/parthiv_mathur/rethinking-observability-in-the-agentic-era-401i)
+- [Grammarly Business Pricing 2025: Plans, Per-Seat Cost and Team Discounts](https://dev.to/stevenclarkwoods44/grammarly-business-pricing-2025-plans-per-seat-cost-and-team-discounts-mgb)
+- [Building Real Income Through Communities: My Approach to Recurring Affiliate Programs](https://dev.to/coolflux/building-real-income-through-communities-my-approach-to-recurring-affiliate-programs-4of2)
+- [Building AI-powered code review bots with GitHub Apps and LLMs](https://dev.to/therizwansaleem/building-ai-powered-code-review-bots-with-github-apps-and-llms-26l3)
+- [Why Comprehensive Code Review Matters More Than You Think](https://dev.to/constanza_diaz_dev/why-comprehensive-code-review-matters-more-than-you-think-55ho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
