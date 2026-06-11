@@ -15,8 +15,8 @@ jobs:
 
       - name: Make random commits and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "saurabh30-bit"
+          git config user.email "sshinde0582@gmail.com"
           
           RANDOM_EXTRA=$(( RANDOM % 10 ))
           TOTAL_COMMITS=$(( 20 + RANDOM_EXTRA ))
