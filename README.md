@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/main/github-metrics.svg?v=2" alt="Metrics" />
 </p>
 
 ---
