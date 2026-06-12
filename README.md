@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-4fjm)
-- [Structural exclusion is the only defense that scales](https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-2iig)
-- [Code that works locally is just the beginning, here&#39;s what we learned](https://dev.to/nometria_vibecoding/code-that-works-locally-is-just-the-beginning-heres-what-we-learned-36fe)
-- [Code that works locally is just the beginning, here&#39;s what we learned](https://dev.to/nometria_vibecoding/code-that-works-locally-is-just-the-beginning-heres-what-we-learned-36fe)
-- [Building MCP Servers in .NET — A Practical Guide](https://dev.to/arunendapally/building-mcp-servers-in-net-a-practical-guide-6bk)
+- [Apple AirPods Pro Alternatives: 5 Better Options?](https://dev.to/shammi_bajaj_dd836c3d3c73/apple-airpods-pro-alternatives-5-better-options-4685)
+- [Book Title: Effective Python](https://dev.to/kelvin_kariuki_20f4bec616/book-title-effective-python-1nj5)
+- [Shielding Against AI Voice Scams: Understanding a Real Conversation](https://dev.to/merbayerp/shielding-against-ai-voice-scams-understanding-a-real-conversation-2di5)
+- [Structural exclusion is the only defense that scales](https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-45eb)
+- [Passport – issue revocable, Secure Enclave-signed permissions to AI agents](https://dev.to/1manfleet/passport-issue-revocable-secure-enclave-signed-permissions-to-ai-agents-16lk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
