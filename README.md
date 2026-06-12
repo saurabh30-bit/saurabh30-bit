@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Future Trends in Water Quality Monitoring Technology](https://dev.to/envirotesters_420/future-trends-in-water-quality-monitoring-technology-55j8)
-- [Building Play &amp; Learn ML: Teaching Machine Learning Through Physical Metaphors](https://dev.to/harishkotra/building-play-learn-ml-teaching-machine-learning-through-physical-metaphors-2a29)
-- [My $2,400/Month Developer Side Hustle Stack &lpar;2026 Edition&rpar;](https://dev.to/fiercestack/my-2400month-developer-side-hustle-stack-2026-edition-26jh)
-- [Functions in javascript with keywords](https://dev.to/kamalesh_ar_6252544786997/functions-in-javascript-with-keywords-lk6)
-- [When JavaScript Isn&#39;t Fast Enough](https://dev.to/boris9027/when-javascript-isnt-fast-enough-3ia2)
+- [Why I stopped pasting into online Encode / Decode tools](https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd)
+- [Why I stopped pasting into online Encode / Decode tools](https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd)
+- [Claves para optimizar la productividad de equipos remotos &lpar;966&rpar;](https://dev.to/hoodiesguru/claves-para-optimizar-la-productividad-de-equipos-remotos-966-3gaa)
+- [Awesome Lists: Accelerate Your Development Workflow with One Click](https://dev.to/kelvin_kariuki_20f4bec616/awesome-lists-accelerate-your-development-workflow-with-one-click-3aoo)
+- [DNS Deep Dive for Developers: Records, TTLs, and Debugging When Resolution Breaks](https://dev.to/veduis/dns-deep-dive-for-developers-records-ttls-and-debugging-when-resolution-breaks-49lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
