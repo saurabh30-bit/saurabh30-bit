@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial](https://dev.to/caper_dev/build-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial-2bea)
-- [The Fizzle](https://dev.to/thesythesis/the-fizzle-5590)
-- [Introducing Pulse — the AI-powered business opportunity network on BizNode. Register your services free, get notified when...](https://dev.to/biznode/introducing-pulse-the-ai-powered-business-opportunity-network-on-biznode-register-your-services-57cf)
-- [Structural exclusion is the only defense that scales](https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-4g73)
-- [How to Use ChatGPT for Sales Proposal Writing &lpar;2024&rpar;](https://dev.to/stevenclarkwoods44/how-to-use-chatgpt-for-sales-proposal-writing-2024-2lc)
+- [How I Built a Full-Stack Python CRUD App in 5 Minutes with VeloIQ](https://dev.to/cesarlugos1s/how-i-built-a-full-stack-python-crud-app-in-5-minutes-with-veloiq-cke)
+- [Architecture preempts the experiment](https://dev.to/chiefmojo79/architecture-preempts-the-experiment-3o10)
+- [AI Automation for Ai For Small Pharmaceutical Compounding Pharmacies How To Automate Fda Form 483 Response Drafting And Corre...](https://dev.to/ken_deng_ai/ai-automation-for-ai-for-small-pharmaceutical-compounding-pharmacies-how-to-automate-fda-form-483-14o4)
+- [Kubernetes Pod Disruption Budgets: ensuring high availability during maintenance](https://dev.to/therizwansaleem/kubernetes-pod-disruption-budgets-ensuring-high-availability-during-maintenance-5cmj)
+- [Don&#39;t Run That Skill Yet](https://dev.to/max_quimby/dont-run-that-skill-yet-5da7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
