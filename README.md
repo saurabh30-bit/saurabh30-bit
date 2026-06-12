@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Stack Python CRUD App in 5 Minutes with VeloIQ](https://dev.to/cesarlugos1s/how-i-built-a-full-stack-python-crud-app-in-5-minutes-with-veloiq-cke)
-- [Architecture preempts the experiment](https://dev.to/chiefmojo79/architecture-preempts-the-experiment-3o10)
-- [AI Automation for Ai For Small Pharmaceutical Compounding Pharmacies How To Automate Fda Form 483 Response Drafting And Corre...](https://dev.to/ken_deng_ai/ai-automation-for-ai-for-small-pharmaceutical-compounding-pharmacies-how-to-automate-fda-form-483-14o4)
-- [Kubernetes Pod Disruption Budgets: ensuring high availability during maintenance](https://dev.to/therizwansaleem/kubernetes-pod-disruption-budgets-ensuring-high-availability-during-maintenance-5cmj)
-- [Don&#39;t Run That Skill Yet](https://dev.to/max_quimby/dont-run-that-skill-yet-5da7)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-4fjm)
+- [Structural exclusion is the only defense that scales](https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-2iig)
+- [Code that works locally is just the beginning, here&#39;s what we learned](https://dev.to/nometria_vibecoding/code-that-works-locally-is-just-the-beginning-heres-what-we-learned-36fe)
+- [Code that works locally is just the beginning, here&#39;s what we learned](https://dev.to/nometria_vibecoding/code-that-works-locally-is-just-the-beginning-heres-what-we-learned-36fe)
+- [Building MCP Servers in .NET — A Practical Guide](https://dev.to/arunendapally/building-mcp-servers-in-net-a-practical-guide-6bk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
