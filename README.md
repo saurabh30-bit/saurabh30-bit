@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Competitor Just Launched a New Website — And Your Customers Noticed Before You Did](https://dev.to/utilizor/your-competitor-just-launched-a-new-website-and-your-customers-noticed-before-you-did-58bf)
-- [📻 最新播客更新 &lpar;2026年06月14日&rpar;](https://dev.to/cognitalk/zui-xin-bo-ke-geng-xin-2026nian-06yue-14ri--5b79)
-- [Structural exclusion is the only defense that scales](https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-768)
-- [From Prototype to Production: Where Most AI Builders Actually Fail](https://dev.to/nometria_vibecoding/from-prototype-to-production-where-most-ai-builders-actually-fail-ha6)
-- [From Prototype to Production: Where Most AI Builders Actually Fail](https://dev.to/nometria_vibecoding/from-prototype-to-production-where-most-ai-builders-actually-fail-ha6)
+- [Change Audio Pitch Online: Modify Voice and Sound Frequencies Without Complex Software](https://dev.to/cloudairambo/change-audio-pitch-online-modify-voice-and-sound-frequencies-without-complex-software-pgn)
+- [APX Routines: Use `exec_agent` for Text, `super_agent` for Work](https://dev.to/agentprojectcontext/apx-routines-use-execagent-for-text-superagent-for-work-10nf)
+- [How to Use Gemini for Pagination Seo in 2026](https://dev.to/leosociallseointent/how-to-use-gemini-for-pagination-seo-in-2026-31bg)
+- [Load census data](https://dev.to/kelvin_kariuki_20f4bec616/load-census-data-h8m)
+- [Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit](https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
