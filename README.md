@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AI assistants lie about citations. Here&#39;s how to catch them.](https://dev.to/zoharbabin/ai-assistants-lie-about-citations-heres-how-to-catch-them-5608)
-- [Why I built another Postgres GUI &lpar;and what I learned&rpar;](https://dev.to/gokula__krishna/why-i-built-another-postgres-gui-and-what-i-learned-nlc)
-- [Architecture preempts the experiment](https://dev.to/chiefmojo79/architecture-preempts-the-experiment-9g8)
-- [Why I built another Postgres GUI &lpar;and what I learned&rpar;](https://dev.to/gokula__krishna/why-i-built-another-postgres-gui-and-what-i-learned-nlc)
-- [AI Doesn&#39;t Need More Knowledge. It Needs a Value System.](https://dev.to/lanternproton/ai-doesnt-need-more-knowledge-it-needs-a-value-system-16hl)
+- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-3kg1)
+- [Image Optimization for Modern Web Applications: Formats, CDNs, Automation](https://dev.to/feidou/image-optimization-for-modern-web-applications-formats-cdns-automation-nn8)
+- [I Vibe Coded My Old Netflix Project](https://dev.to/aandreakis/i-vibe-coded-my-old-netflix-project-1fho)
+- [Title but no story just like every Creator whos got a title but lost the story](https://dev.to/neoncyan0x/title-but-no-story-just-like-every-creator-whos-got-a-title-but-lost-the-story-hol)
+- [What I Wanted the Machine to Remember](https://dev.to/paifamily/what-i-wanted-the-machine-to-remember-4gbg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
