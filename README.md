@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AI: complete breakdown](https://dev.to/nirasynthcae26/ai-complete-breakdown-4475)
-- [AI FAQ answered](https://dev.to/nirasynthcae26/ai-faq-answered-1357)
-- [How To Make Presentations Faster With Chatgpt](https://dev.to/earthstarrising/how-to-make-presentations-faster-with-chatgpt-691)
-- [A Developer using AI. What Could Possibly Go Wrong?](https://dev.to/francistrdev/a-developer-using-ai-what-could-possibly-go-wrong-2fmo)
-- [Architecture preempts the experiment](https://dev.to/chiefmojo79/architecture-preempts-the-experiment-18jb)
+- [AI assistants lie about citations. Here&#39;s how to catch them.](https://dev.to/zoharbabin/ai-assistants-lie-about-citations-heres-how-to-catch-them-5608)
+- [Why I built another Postgres GUI &lpar;and what I learned&rpar;](https://dev.to/gokula__krishna/why-i-built-another-postgres-gui-and-what-i-learned-nlc)
+- [Architecture preempts the experiment](https://dev.to/chiefmojo79/architecture-preempts-the-experiment-9g8)
+- [Why I built another Postgres GUI &lpar;and what I learned&rpar;](https://dev.to/gokula__krishna/why-i-built-another-postgres-gui-and-what-i-learned-nlc)
+- [AI Doesn&#39;t Need More Knowledge. It Needs a Value System.](https://dev.to/lanternproton/ai-doesnt-need-more-knowledge-it-needs-a-value-system-16hl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
