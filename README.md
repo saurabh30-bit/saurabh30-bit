@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Change Audio Pitch Online: Modify Voice and Sound Frequencies Without Complex Software](https://dev.to/cloudairambo/change-audio-pitch-online-modify-voice-and-sound-frequencies-without-complex-software-pgn)
-- [APX Routines: Use `exec_agent` for Text, `super_agent` for Work](https://dev.to/agentprojectcontext/apx-routines-use-execagent-for-text-superagent-for-work-10nf)
-- [How to Use Gemini for Pagination Seo in 2026](https://dev.to/leosociallseointent/how-to-use-gemini-for-pagination-seo-in-2026-31bg)
-- [Load census data](https://dev.to/kelvin_kariuki_20f4bec616/load-census-data-h8m)
-- [Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit](https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85)
+- [How to check if ChatGPT recommends your business &lpar;free, 10 minutes&rpar;](https://dev.to/zordhalo/how-to-check-if-chatgpt-recommends-your-business-free-10-minutes-1o0g)
+- [AI Technology for Tweet-to-Viral-Video: Why Coordination, Not Models, Is the Real Moat](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-for-tweet-to-viral-video-why-coordination-not-models-is-the-real-moat-43ol)
+- [The Best Vercel Analytics Alternative When You Outgrow the Free Tier](https://dev.to/raah/the-best-vercel-analytics-alternative-when-you-outgrow-the-free-tier-2e0l)
+- [A Bootcamp Grad&#39;s Honest Take on AI API Pricing in 2026](https://dev.to/rileykim/a-bootcamp-grads-honest-take-on-ai-api-pricing-in-2026-5ecd)
+- [A Bootcamp Grad&#39;s Honest Take on AI API Pricing in 2026](https://dev.to/rileykim/a-bootcamp-grads-honest-take-on-ai-api-pricing-in-2026-5ecd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
