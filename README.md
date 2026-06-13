@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to check if ChatGPT recommends your business &lpar;free, 10 minutes&rpar;](https://dev.to/zordhalo/how-to-check-if-chatgpt-recommends-your-business-free-10-minutes-1o0g)
-- [AI Technology for Tweet-to-Viral-Video: Why Coordination, Not Models, Is the Real Moat](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-for-tweet-to-viral-video-why-coordination-not-models-is-the-real-moat-43ol)
-- [The Best Vercel Analytics Alternative When You Outgrow the Free Tier](https://dev.to/raah/the-best-vercel-analytics-alternative-when-you-outgrow-the-free-tier-2e0l)
-- [A Bootcamp Grad&#39;s Honest Take on AI API Pricing in 2026](https://dev.to/rileykim/a-bootcamp-grads-honest-take-on-ai-api-pricing-in-2026-5ecd)
-- [A Bootcamp Grad&#39;s Honest Take on AI API Pricing in 2026](https://dev.to/rileykim/a-bootcamp-grads-honest-take-on-ai-api-pricing-in-2026-5ecd)
+- [Knex.js query building and migration patterns for SQL databases](https://dev.to/therizwansaleem/knexjs-query-building-and-migration-patterns-for-sql-databases-4o7n)
+- [PHP Arrays to TypeScript: When It Is a Record, a Tuple, or a Real Type](https://dev.to/gabrielanhaia/php-arrays-to-typescript-when-it-is-a-record-a-tuple-or-a-real-type-1mgc)
+- [Java Generics to TypeScript: extends, super, and the in/out Keywords](https://dev.to/gabrielanhaia/java-generics-to-typescript-extends-super-and-the-inout-keywords-gl9)
+- [AI Daily Digest: June 14, 2026 — Anthropic Fable 5/Mythos 5 Shutdown, OpenAI AG Probe, AI Hallucination Crisis](https://dev.to/hiroki-ii-ai/ai-daily-digest-june-14-2026-anthropic-fable-5mythos-5-shutdown-openai-ag-probe-ai-20cc)
+- [The &#39;Freemium&#39; Psychology: How Apps Manipulate You Into Upgrading](https://dev.to/checkcalc/the-freemium-psychology-how-apps-manipulate-you-into-upgrading-ei4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
