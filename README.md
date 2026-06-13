@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Fable 5 Shutdown: Developer Migration Guide](https://dev.to/tyson_cung/anthropic-fable-5-shutdown-developer-migration-guide-45lj)
-- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-120j)
-- [Intellibooks Guide: The $0 AI Architecture That Can Scale Big Later](https://dev.to/intellibooks_ai/intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later-1ec4)
-- [Intellibooks Guide: The $0 AI Architecture That Can Scale Big Later](https://dev.to/intellibooks_ai/intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later-1ec4)
-- [I Was Shocked by How Cheap LLMs Can Be — A Bootcamp Grad&#39;s Guide](https://dev.to/truelane/i-was-shocked-by-how-cheap-llms-can-be-a-bootcamp-grads-guide-3bpa)
+- [Your Competitor Just Launched a New Website — And Your Customers Noticed Before You Did](https://dev.to/utilizor/your-competitor-just-launched-a-new-website-and-your-customers-noticed-before-you-did-58bf)
+- [📻 最新播客更新 &lpar;2026年06月14日&rpar;](https://dev.to/cognitalk/zui-xin-bo-ke-geng-xin-2026nian-06yue-14ri--5b79)
+- [Structural exclusion is the only defense that scales](https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-768)
+- [From Prototype to Production: Where Most AI Builders Actually Fail](https://dev.to/nometria_vibecoding/from-prototype-to-production-where-most-ai-builders-actually-fail-ha6)
+- [From Prototype to Production: Where Most AI Builders Actually Fail](https://dev.to/nometria_vibecoding/from-prototype-to-production-where-most-ai-builders-actually-fail-ha6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
