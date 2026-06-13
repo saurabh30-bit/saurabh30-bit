@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-3kg1)
-- [Image Optimization for Modern Web Applications: Formats, CDNs, Automation](https://dev.to/feidou/image-optimization-for-modern-web-applications-formats-cdns-automation-nn8)
-- [I Vibe Coded My Old Netflix Project](https://dev.to/aandreakis/i-vibe-coded-my-old-netflix-project-1fho)
-- [Title but no story just like every Creator whos got a title but lost the story](https://dev.to/neoncyan0x/title-but-no-story-just-like-every-creator-whos-got-a-title-but-lost-the-story-hol)
-- [What I Wanted the Machine to Remember](https://dev.to/paifamily/what-i-wanted-the-machine-to-remember-4gbg)
+- [Behind the Green Tests: My Honest HNG Internship Experience](https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8)
+- [Behind the Green Tests: My Honest HNG Internship Experience](https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8)
+- [Mastering Awesome: Leveraging Community-Driven Knowledge Across the Spectrum](https://dev.to/kelvin_kariuki_20f4bec616/mastering-awesome-leveraging-community-driven-knowledge-across-the-spectrum-17ab)
+- [Discover the Power of Free-Programming-Books.org: Unlocking Knowledge Without Breaking the Bank](https://dev.to/kelvin_kariuki_20f4bec616/discover-the-power-of-free-programming-booksorg-unlocking-knowledge-without-breaking-the-bank-2k77)
+- [How I streamed Gigabytes of Data directly to Disk using the browser&#39;s File System API](https://dev.to/contextmuse/how-i-streamed-gigabytes-of-data-directly-to-disk-using-the-browsers-file-system-api-4jgg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
