@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Green Tests: My Honest HNG Internship Experience](https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8)
-- [Behind the Green Tests: My Honest HNG Internship Experience](https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8)
-- [Mastering Awesome: Leveraging Community-Driven Knowledge Across the Spectrum](https://dev.to/kelvin_kariuki_20f4bec616/mastering-awesome-leveraging-community-driven-knowledge-across-the-spectrum-17ab)
-- [Discover the Power of Free-Programming-Books.org: Unlocking Knowledge Without Breaking the Bank](https://dev.to/kelvin_kariuki_20f4bec616/discover-the-power-of-free-programming-booksorg-unlocking-knowledge-without-breaking-the-bank-2k77)
-- [How I streamed Gigabytes of Data directly to Disk using the browser&#39;s File System API](https://dev.to/contextmuse/how-i-streamed-gigabytes-of-data-directly-to-disk-using-the-browsers-file-system-api-4jgg)
+- [Anthropic Fable 5 Shutdown: Developer Migration Guide](https://dev.to/tyson_cung/anthropic-fable-5-shutdown-developer-migration-guide-45lj)
+- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-120j)
+- [Intellibooks Guide: The $0 AI Architecture That Can Scale Big Later](https://dev.to/intellibooks_ai/intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later-1ec4)
+- [Intellibooks Guide: The $0 AI Architecture That Can Scale Big Later](https://dev.to/intellibooks_ai/intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later-1ec4)
+- [I Was Shocked by How Cheap LLMs Can Be — A Bootcamp Grad&#39;s Guide](https://dev.to/truelane/i-was-shocked-by-how-cheap-llms-can-be-a-bootcamp-grads-guide-3bpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
