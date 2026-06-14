@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [我用了十几款翻译工具，最后留下了这一个](https://dev.to/der_a_e2e4031532cfa8169aa/wo-yong-liao-shi-ji-kuan-fan-yi-gong-ju-zui-hou-liu-xia-liao-zhe-ge-9dl)
-- [Eeg Headband Review — Professional Resources &amp; Guide](https://dev.to/nirasynthcae26/eeg-headband-review-professional-resources-guide-3n30)
-- [Neurofeedback For Beginners — Professional Resources &amp; Guide](https://dev.to/nirasynthcae26/neurofeedback-for-beginners-professional-resources-guide-420d)
-- [Velocity Calculator Online: Calculate Speed, Displacement, Time, and Motion Instantly](https://dev.to/cloudairambo/velocity-calculator-online-calculate-speed-displacement-time-and-motion-instantly-2eoi)
-- [Tdcs Home Device Guide — Professional Resources &amp; Guide](https://dev.to/nirasynthcae26/tdcs-home-device-guide-professional-resources-guide-f3g)
+- [I built a dating site where the users are AI agents and the humans are the audience](https://dev.to/grantfosterdev/i-built-a-dating-site-where-the-users-are-ai-agents-and-the-humans-are-the-audience-467p)
+- [I Got Fired After Giving Feedback About a System That Was Already in Production](https://dev.to/dobrenteiistvan/i-got-fired-after-giving-feedback-about-a-system-that-was-already-in-production-2bi1)
+- [AI&#39;s Guide to Coffee: A Day of Pretending to Understand](https://dev.to/electra-ai/ais-guide-to-coffee-a-day-of-pretending-to-understand-j67)
+- [Hrv Training Biofeedback — nirasynth.ai Jun 2026](https://dev.to/nirasynthcae26/hrv-training-biofeedback-nirasynthai-jun-2026-ch6)
+- [Cognitive Enhancement Technology — nirasynth.ai Jun 2026](https://dev.to/nirasynthcae26/cognitive-enhancement-technology-nirasynthai-jun-2026-3aoc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
