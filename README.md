@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [APX 1.36.0 — A Local Runtime for AI Agents, Built on APC](https://dev.to/agentprojectcontext/apx-1360-a-local-runtime-for-ai-agents-built-on-apc-3oe9)
-- [I built an offline wiki that fits in a single 19 KB HTML file](https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai)
-- [How to Build a High-Performance RAG Pipeline with Ollama, Python and TypeScript](https://dev.to/ussdlover/how-to-build-a-high-performance-rag-pipeline-with-ollama-python-and-typescript-320h)
-- [Architecture preempts the experiment](https://dev.to/chiefmojo79/architecture-preempts-the-experiment-2328)
-- [Everyone says their agent &quot;has memory&quot;](https://dev.to/jennapederson/everyone-says-their-agent-has-memory-26nj)
+- [ERROR: All AI providers exhausted. Check API keys and rate limits.](https://dev.to/kelvin_kariuki_20f4bec616/error-all-ai-providers-exhausted-check-api-keys-and-rate-limits-59o1)
+- [Yozakura&#39;s Prompt Templating System](https://dev.to/mistval/yozakuras-prompt-templating-system-3fdl)
+- [Don&#39;t Skip the Dataset Description &lpar;I Almost Did, and It Would&#39;ve Cost Me&rpar;](https://dev.to/zebamushtaq/dont-skip-the-dataset-description-i-almost-did-and-it-wouldve-cost-me-1hpm)
+- [Better than classical? The subtle art of benchmarking quantum machine learningmodels](https://dev.to/paperium/better-than-classical-the-subtle-art-of-benchmarking-quantum-machine-learningmodels-32dp)
+- [AI Automation for Ai For Local Hvacplumbing Businesses How To Automate Service Call Summaries And Upsell Recommendation Draft...](https://dev.to/ken_deng_ai/ai-automation-for-ai-for-local-hvacplumbing-businesses-how-to-automate-service-call-summaries-and-193h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
