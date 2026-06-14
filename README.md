@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Knex.js query building and migration patterns for SQL databases](https://dev.to/therizwansaleem/knexjs-query-building-and-migration-patterns-for-sql-databases-4o7n)
-- [PHP Arrays to TypeScript: When It Is a Record, a Tuple, or a Real Type](https://dev.to/gabrielanhaia/php-arrays-to-typescript-when-it-is-a-record-a-tuple-or-a-real-type-1mgc)
-- [Java Generics to TypeScript: extends, super, and the in/out Keywords](https://dev.to/gabrielanhaia/java-generics-to-typescript-extends-super-and-the-inout-keywords-gl9)
-- [AI Daily Digest: June 14, 2026 — Anthropic Fable 5/Mythos 5 Shutdown, OpenAI AG Probe, AI Hallucination Crisis](https://dev.to/hiroki-ii-ai/ai-daily-digest-june-14-2026-anthropic-fable-5mythos-5-shutdown-openai-ag-probe-ai-20cc)
-- [The &#39;Freemium&#39; Psychology: How Apps Manipulate You Into Upgrading](https://dev.to/checkcalc/the-freemium-psychology-how-apps-manipulate-you-into-upgrading-ei4)
+- [Nvidia Frame Generation: The Surprising Setting That Can Make All the Difference](https://dev.to/yagyaraj_sharma_6cd410179/nvidia-frame-generation-the-surprising-setting-that-can-make-all-the-difference-3d4c)
+- [I Built a Private AI Brain on My Laptop for $0](https://dev.to/theonaiao/i-built-a-private-ai-brain-on-my-laptop-for-0-2ah3)
+- [How I Built a $4,200/Month Side Income Reselling AI APIs &lpar;And You Can Too&rpar;](https://dev.to/smartcore/how-i-built-a-4200month-side-income-reselling-ai-apis-and-you-can-too-dld)
+- [Concurrency is byproduct of capability design not bottleneck to patch](https://dev.to/chiefmojo79/concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch-2p4g)
+- [Page Visibility and requestIdleCallback: optimizing background tab behavior](https://dev.to/therizwansaleem/page-visibility-and-requestidlecallback-optimizing-background-tab-behavior-2nio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
