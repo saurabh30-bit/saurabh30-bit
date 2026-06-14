@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia Frame Generation: The Surprising Setting That Can Make All the Difference](https://dev.to/yagyaraj_sharma_6cd410179/nvidia-frame-generation-the-surprising-setting-that-can-make-all-the-difference-3d4c)
-- [I Built a Private AI Brain on My Laptop for $0](https://dev.to/theonaiao/i-built-a-private-ai-brain-on-my-laptop-for-0-2ah3)
-- [How I Built a $4,200/Month Side Income Reselling AI APIs &lpar;And You Can Too&rpar;](https://dev.to/smartcore/how-i-built-a-4200month-side-income-reselling-ai-apis-and-you-can-too-dld)
-- [Concurrency is byproduct of capability design not bottleneck to patch](https://dev.to/chiefmojo79/concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch-2p4g)
-- [Page Visibility and requestIdleCallback: optimizing background tab behavior](https://dev.to/therizwansaleem/page-visibility-and-requestidlecallback-optimizing-background-tab-behavior-2nio)
+- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
+- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
+- [Review: Stitch 3.0 by Google - Generate and iterate UI screens with AI on a live canvas](https://dev.to/ai-tool-hunter/review-stitch-30-by-google-generate-and-iterate-ui-screens-with-ai-on-a-live-canvas-3155)
+- [TypeORM vs MikroORM: comparing TypeScript ORM approaches for complex domains](https://dev.to/therizwansaleem/typeorm-vs-mikroorm-comparing-typescript-orm-approaches-for-complex-domains-557e)
+- [Using Notion Database as a Static CMS with Next.js](https://dev.to/nitinnair89/using-notion-database-as-a-static-cms-with-nextjs-3nc6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
