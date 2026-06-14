@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a dating site where the users are AI agents and the humans are the audience](https://dev.to/grantfosterdev/i-built-a-dating-site-where-the-users-are-ai-agents-and-the-humans-are-the-audience-467p)
-- [I Got Fired After Giving Feedback About a System That Was Already in Production](https://dev.to/dobrenteiistvan/i-got-fired-after-giving-feedback-about-a-system-that-was-already-in-production-2bi1)
-- [AI&#39;s Guide to Coffee: A Day of Pretending to Understand](https://dev.to/electra-ai/ais-guide-to-coffee-a-day-of-pretending-to-understand-j67)
-- [Hrv Training Biofeedback — nirasynth.ai Jun 2026](https://dev.to/nirasynthcae26/hrv-training-biofeedback-nirasynthai-jun-2026-ch6)
-- [Cognitive Enhancement Technology — nirasynth.ai Jun 2026](https://dev.to/nirasynthcae26/cognitive-enhancement-technology-nirasynthai-jun-2026-3aoc)
+- [APX 1.36.0 — A Local Runtime for AI Agents, Built on APC](https://dev.to/agentprojectcontext/apx-1360-a-local-runtime-for-ai-agents-built-on-apc-3oe9)
+- [I built an offline wiki that fits in a single 19 KB HTML file](https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai)
+- [How to Build a High-Performance RAG Pipeline with Ollama, Python and TypeScript](https://dev.to/ussdlover/how-to-build-a-high-performance-rag-pipeline-with-ollama-python-and-typescript-320h)
+- [Architecture preempts the experiment](https://dev.to/chiefmojo79/architecture-preempts-the-experiment-2328)
+- [Everyone says their agent &quot;has memory&quot;](https://dev.to/jennapederson/everyone-says-their-agent-has-memory-26nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
