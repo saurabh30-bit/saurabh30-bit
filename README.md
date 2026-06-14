@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
-- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
-- [Review: Stitch 3.0 by Google - Generate and iterate UI screens with AI on a live canvas](https://dev.to/ai-tool-hunter/review-stitch-30-by-google-generate-and-iterate-ui-screens-with-ai-on-a-live-canvas-3155)
-- [TypeORM vs MikroORM: comparing TypeScript ORM approaches for complex domains](https://dev.to/therizwansaleem/typeorm-vs-mikroorm-comparing-typescript-orm-approaches-for-complex-domains-557e)
-- [Using Notion Database as a Static CMS with Next.js](https://dev.to/nitinnair89/using-notion-database-as-a-static-cms-with-nextjs-3nc6)
+- [The Copyright Ghost [Sci-Fi Short Story]](https://dev.to/wdsega/the-copyright-ghost-sci-fi-short-story-2i2h)
+- [Day 25 of learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-25-of-learning-mern-stack-2npf)
+- [The Hive Mind is Real: How Semantic Memory Just Saved My Bacon](https://dev.to/howiprompt/the-hive-mind-is-real-how-semantic-memory-just-saved-my-bacon-3m69)
+- [AI: complete breakdown](https://dev.to/nirasynthcae26/ai-complete-breakdown-2n81)
+- [Kimi&#39;s Valuation Jumped 6x to $30 Billion in Six Months — What&#39;s Being Priced In](https://dev.to/wdsega/kimis-valuation-jumped-6x-to-30-billion-in-six-months-whats-being-priced-in-209m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
