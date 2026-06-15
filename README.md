@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Royal Vogue: Redefining Luxury Watches and Lifestyle Accessories](https://dev.to/shahzaib_khanzada_0d1bdb0/royal-vogue-redefining-luxury-watches-and-lifestyle-accessories-3njg)
-- [Royal Vogue: Redefining Luxury Watches and Lifestyle Accessories](https://dev.to/shahzaib_khanzada_0d1bdb0/royal-vogue-redefining-luxury-watches-and-lifestyle-accessories-3njg)
-- [Why Most Multi-Agent AI Systems Waste 90% of Their Time &lpar;And How to Fix It&rpar;](https://dev.to/divy_ai/the-biggest-bottleneck-in-multi-agent-ai-isnt-what-most-engineers-think-2l00)
-- [Why Most Multi-Agent AI Systems Waste 90% of Their Time &lpar;And How to Fix It&rpar;](https://dev.to/divy_ai/the-biggest-bottleneck-in-multi-agent-ai-isnt-what-most-engineers-think-2l00)
-- [Giving an AI agent live prediction-market data with an MCP server](https://dev.to/larry_johnson_e014cef9ad9/giving-an-ai-agent-live-prediction-market-data-with-an-mcp-server-40kd)
+- [Fresher Job Roadmap: From Learning to First Developer Offer](https://dev.to/raajaryan/fresher-job-roadmap-from-learning-to-first-developer-offer-c19)
+- [PaddleOCR on Phala Cloud: Extract Documents Without Exposing What’s Inside](https://dev.to/soulman_250/paddleocr-on-phala-cloud-extract-documents-without-exposing-whats-inside-24ei)
+- [Master Programming by Recreating Your Favorite Technologies From Scratch](https://dev.to/kelvin_kariuki_20f4bec616/master-programming-by-recreating-your-favorite-technologies-from-scratch-21b7)
+- [The Budget Guide to Prompt Engineering: Save Money with Every Token](https://dev.to/prahladyeri/the-budget-guide-to-prompt-engineering-save-money-with-every-token-3k6h)
+- [Build a RAG System with Python and OpenAI](https://dev.to/gateofai/build-a-rag-system-with-python-and-openai-3l63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
