@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagine If Your AI Agent Could Ask the Repo What Is True](https://dev.to/scarab-systems/imagine-if-your-ai-agent-could-ask-the-repo-what-is-true-2h13)
-- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-4f23)
-- [Overcoming Hardware and Connectivity Bottlenecks in RFID Event Deployment](https://dev.to/stampiq/overcoming-hardware-and-connectivity-bottlenecks-in-rfid-event-deployment-2ca6)
-- [We Deleted Our Focus Trap, Scroll Lock, and Toggle Logic — The Browser Already Does It](https://dev.to/sridhar_natuva_2b5e2beef0/we-deleted-our-focus-trap-scroll-lock-and-toggle-logic-the-browser-already-does-it-42a)
-- [We Deleted Our Focus Trap, Scroll Lock, and Toggle Logic — The Browser Already Does It](https://dev.to/sridhar_natuva_2b5e2beef0/we-deleted-our-focus-trap-scroll-lock-and-toggle-logic-the-browser-already-does-it-42a)
+- [Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial](https://dev.to/caper_dev/build-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial-3p5c)
+- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-1fff)
+- [Upload your product docs to BizNode&#39;s knowledge base. Your Telegram bot instantly answers customer questions from your own data](https://dev.to/biznode/upload-your-product-docs-to-biznodes-knowledge-base-your-telegram-bot-instantly-answers-customer-5cna)
+- [I Spent 3 Months Training An AI. My VP &quot;Reallocated&quot; It. Then I Got Two Calls At 1 AM.](https://dev.to/xulingfeng/i-spent-3-months-training-an-ai-my-vp-reallocated-it-then-i-got-two-calls-at-1-am-14kj)
+- [A3M Router Update: Parallel LLM Routing Insights &lpar;HI&rpar;](https://dev.to/megha_mukherjee_5eb776f2b/a3m-router-update-parallel-llm-routing-insights-hi-5bp0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
