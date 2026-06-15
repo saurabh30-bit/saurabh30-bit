@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresher Job Roadmap: From Learning to First Developer Offer](https://dev.to/raajaryan/fresher-job-roadmap-from-learning-to-first-developer-offer-c19)
-- [PaddleOCR on Phala Cloud: Extract Documents Without Exposing What’s Inside](https://dev.to/soulman_250/paddleocr-on-phala-cloud-extract-documents-without-exposing-whats-inside-24ei)
-- [Master Programming by Recreating Your Favorite Technologies From Scratch](https://dev.to/kelvin_kariuki_20f4bec616/master-programming-by-recreating-your-favorite-technologies-from-scratch-21b7)
-- [The Budget Guide to Prompt Engineering: Save Money with Every Token](https://dev.to/prahladyeri/the-budget-guide-to-prompt-engineering-save-money-with-every-token-3k6h)
-- [Build a RAG System with Python and OpenAI](https://dev.to/gateofai/build-a-rag-system-with-python-and-openai-3l63)
+- [Imagine If Your AI Agent Could Ask the Repo What Is True](https://dev.to/scarab-systems/imagine-if-your-ai-agent-could-ask-the-repo-what-is-true-2h13)
+- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-4f23)
+- [Overcoming Hardware and Connectivity Bottlenecks in RFID Event Deployment](https://dev.to/stampiq/overcoming-hardware-and-connectivity-bottlenecks-in-rfid-event-deployment-2ca6)
+- [We Deleted Our Focus Trap, Scroll Lock, and Toggle Logic — The Browser Already Does It](https://dev.to/sridhar_natuva_2b5e2beef0/we-deleted-our-focus-trap-scroll-lock-and-toggle-logic-the-browser-already-does-it-42a)
+- [We Deleted Our Focus Trap, Scroll Lock, and Toggle Logic — The Browser Already Does It](https://dev.to/sridhar_natuva_2b5e2beef0/we-deleted-our-focus-trap-scroll-lock-and-toggle-logic-the-browser-already-does-it-42a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
