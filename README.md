@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Send Email Without SMTP Configuration](https://dev.to/qasim157/send-email-without-smtp-configuration-lgl)
-- [Analyzing the Impact of Rising RAM Prices on Smart…](https://dev.to/norviktech/analyzing-the-impact-of-rising-ram-prices-on-smart-1ebk)
-- [I Wish I Knew This DeepSeek API Trick Sooner — My Full Breakdown](https://dev.to/truelane/i-wish-i-knew-this-deepseek-api-trick-sooner-my-full-breakdown-5af7)
-- [I Wish I Knew This DeepSeek API Trick Sooner — My Full Breakdown](https://dev.to/truelane/i-wish-i-knew-this-deepseek-api-trick-sooner-my-full-breakdown-5af7)
-- [Mouse Polling Rate Test: Check Mouse Hz and Fix Low Readings](https://dev.to/nasirazizawan/mouse-polling-rate-test-check-mouse-hz-and-fix-low-readings-3pj1)
+- [How to use public-apis: A collective list of free APIs](https://dev.to/kelvin_kariuki_20f4bec616/how-to-use-public-apis-a-collective-list-of-free-apis-5e27)
+- [Arquitectura y Seguridad en la Nube: El próximo nivel del desarrollador](https://dev.to/xinlin25/arquitectura-y-seguridad-en-la-nube-el-proximo-nivel-del-desarrollador-1bnd)
+- [RAG Systems and Their Limitati…](https://dev.to/norviktech/rag-systems-and-their-limitati-52bl)
+- [Why I stopped using ChatGPT for code reviews](https://dev.to/eternalsix/why-i-stopped-using-chatgpt-for-code-reviews-2ia5)
+- [I Replaced My $200/Month Video SaaS With a One-Time $20 Workflow](https://dev.to/ali_ylmazdok_ca363ab031/i-replaced-my-200month-video-saas-with-a-one-time-20-workflow-1ko8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
