@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial](https://dev.to/caper_dev/build-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial-3p5c)
-- [Topology rewrite not bug repair](https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-1fff)
-- [Upload your product docs to BizNode&#39;s knowledge base. Your Telegram bot instantly answers customer questions from your own data](https://dev.to/biznode/upload-your-product-docs-to-biznodes-knowledge-base-your-telegram-bot-instantly-answers-customer-5cna)
-- [I Spent 3 Months Training An AI. My VP &quot;Reallocated&quot; It. Then I Got Two Calls At 1 AM.](https://dev.to/xulingfeng/i-spent-3-months-training-an-ai-my-vp-reallocated-it-then-i-got-two-calls-at-1-am-14kj)
-- [A3M Router Update: Parallel LLM Routing Insights &lpar;HI&rpar;](https://dev.to/megha_mukherjee_5eb776f2b/a3m-router-update-parallel-llm-routing-insights-hi-5bp0)
+- [Top 10 Technographic &amp; Website Stack Analysis Tools for Enterprise Businesses](https://dev.to/stackscan/top-10-technographic-website-stack-analysis-tools-for-enterprise-businesses-5b4b)
+- [Brain Stimulation Device — nirasynth.ai Jun 2026](https://dev.to/nirasynthcae26/brain-stimulation-device-nirasynthai-jun-2026-439)
+- [Tailwind CSS4: Why Those Inline Styles Are Actually More Scalable - A Senior CSS Developer&#39;s Guide](https://dev.to/cathylai/tailwind-css4-why-those-inline-styles-are-actually-more-scalable-a-senior-css-developers-guide-hdj)
+- [Eeg Headband Consumer — nirasynth.ai Jun 2026](https://dev.to/nirasynthcae26/eeg-headband-consumer-nirasynthai-jun-2026-37ge)
+- [Your .NET RAG stack hides a Python sidecar. I built the engine that removes it.](https://dev.to/gunjantailor/your-net-rag-stack-hides-a-python-sidecar-i-built-the-engine-that-removes-it-5190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
