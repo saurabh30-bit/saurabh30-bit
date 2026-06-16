@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use public-apis: A collective list of free APIs](https://dev.to/kelvin_kariuki_20f4bec616/how-to-use-public-apis-a-collective-list-of-free-apis-5e27)
-- [Arquitectura y Seguridad en la Nube: El próximo nivel del desarrollador](https://dev.to/xinlin25/arquitectura-y-seguridad-en-la-nube-el-proximo-nivel-del-desarrollador-1bnd)
-- [RAG Systems and Their Limitati…](https://dev.to/norviktech/rag-systems-and-their-limitati-52bl)
-- [Why I stopped using ChatGPT for code reviews](https://dev.to/eternalsix/why-i-stopped-using-chatgpt-for-code-reviews-2ia5)
-- [I Replaced My $200/Month Video SaaS With a One-Time $20 Workflow](https://dev.to/ali_ylmazdok_ca363ab031/i-replaced-my-200month-video-saas-with-a-one-time-20-workflow-1ko8)
+- [I Compared Every AI API By Price in 2026 — Heres What I Found](https://dev.to/rileykim/i-compared-every-ai-api-by-price-in-2026-heres-what-i-found-5g7i)
+- [LLMs for Language Understanding](https://dev.to/shashank_ms_6a35baa4be138/llms-for-language-understanding-4eip)
+- [From Ukraine to Austin: How AI Helped Our Family Survive &lpar;And Thrive&rpar;](https://dev.to/boryslavdeputat/from-ukraine-to-austin-how-ai-helped-our-family-survive-and-thrive-4akh)
+- [LLMs for Multimodal Tasks](https://dev.to/shashank_ms_6a35baa4be138/llms-for-multimodal-tasks-52d6)
+- [How LLMs Work](https://dev.to/shashank_ms_6a35baa4be138/how-llms-work-3j8c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
