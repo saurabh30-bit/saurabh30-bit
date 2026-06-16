@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How BrancoSoft Delivers Enterprise-Grade Digital Products](https://dev.to/vedansh_singh_c1f925fe7cb/how-brancosoft-delivers-enterprise-grade-digital-products-3edm)
-- [How BrancoSoft Delivers Enterprise-Grade Digital Products](https://dev.to/vedansh_singh_c1f925fe7cb/how-brancosoft-delivers-enterprise-grade-digital-products-3edm)
-- [The SaaS Affiliate Strategy That Pays Monthly &lpar;Not Just Once&rpar;](https://dev.to/vividbeam/the-saas-affiliate-strategy-that-pays-monthly-not-just-once-52ej)
-- [I Audited My Own Side Projects for Security Issues — Here&#39;s What I Found](https://dev.to/justjinoit/i-audited-my-own-side-projects-for-security-issues-heres-what-i-found-1ahb)
-- [I Wish I Knew AI Data Extraction Sooner — Here&#39;s the Full Breakdown](https://dev.to/swift-logic-io218/i-wish-i-knew-ai-data-extraction-sooner-heres-the-full-breakdown-56m4)
+- [Send Email Without SMTP Configuration](https://dev.to/qasim157/send-email-without-smtp-configuration-lgl)
+- [Analyzing the Impact of Rising RAM Prices on Smart…](https://dev.to/norviktech/analyzing-the-impact-of-rising-ram-prices-on-smart-1ebk)
+- [I Wish I Knew This DeepSeek API Trick Sooner — My Full Breakdown](https://dev.to/truelane/i-wish-i-knew-this-deepseek-api-trick-sooner-my-full-breakdown-5af7)
+- [I Wish I Knew This DeepSeek API Trick Sooner — My Full Breakdown](https://dev.to/truelane/i-wish-i-knew-this-deepseek-api-trick-sooner-my-full-breakdown-5af7)
+- [Mouse Polling Rate Test: Check Mouse Hz and Fix Low Readings](https://dev.to/nasirazizawan/mouse-polling-rate-test-check-mouse-hz-and-fix-low-readings-3pj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
