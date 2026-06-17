@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs GraphQL vs tRPC in 2026](https://dev.to/respect17/rest-vs-graphql-vs-trpc-in-2026-52dm)
-- [AI - expert notes](https://dev.to/nirasynthcae26/ai-expert-notes-49pb)
-- [10 Test Automation Problems That Look Simple Until You Face Them in Production](https://dev.to/mellowthunder735/10-test-automation-problems-that-look-simple-until-you-face-them-in-production-h9p)
-- [The AI cheat sheet](https://dev.to/nirasynthcae26/the-ai-cheat-sheet-33mj)
-- [leakproof: stop your AI coding tool from leaking secrets to the cloud &lpar;local, Apache-2.0&rpar;](https://dev.to/hamtek/leakproof-stop-your-ai-coding-tool-from-leaking-secrets-to-the-cloud-local-apache-20-39fn)
+- [Everything about AI in 2026](https://dev.to/nirasynthcae26/everything-about-ai-in-2026-2jpm)
+- [AI in 2026: A Vivid Look at the Next Software Revolution](https://dev.to/aljen_007/ai-in-2026-a-vivid-look-at-the-next-software-revolution-22o6)
+- [AI in 2026: The Great Reshaping of Software Development](https://dev.to/aljen_007/ai-in-2026-the-great-reshaping-of-software-development-21ej)
+- [The Real AI Privacy Problem Isn&#39;t What You Tell AI — It&#39;s What AI Infers](https://dev.to/sewyed/the-real-ai-privacy-problem-isnt-what-you-tell-ai-its-what-ai-infers-32o)
+- [My $7/Month AI Stack: How I Cut API Costs 97% as a Freelancer](https://dev.to/purecast/my-7month-ai-stack-how-i-cut-api-costs-97-as-a-freelancer-1knb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
