@@ -62,15 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I got bored of solving DSA alone, so I built a Real-Time Multiplayer Coding Arena ⚔️](https://dev.to/prajwal_dhande_471033eb1d/i-got-bored-of-solving-dsa-alone-so-i-built-a-real-time-multiplayer-coding-arena-2525)
-- [Your AI agent can now call market_search, market_compare, market_basket autonomously.
-No human in the loop for search + compare.
-What would you build on top of that?
-Procurement bot? Price alert system? Basket optimizer?
-Drop your idea 👇](https://dev.to/ricardo_cuba/your-ai-agent-can-now-call-marketsearch-marketcompare-marketbasket-autonomously-no-human-in-2pcm)
-- [AI Automation for Ai For Solo Fractional Cfos Serving Startups How To Automate Board Deck Financial Section Drafting And Vari...](https://dev.to/ken_deng_ai/ai-automation-for-ai-for-solo-fractional-cfos-serving-startups-how-to-automate-board-deck-financial-cl4)
-- [Developer Take on: Epic Games Announces Lore Version Control System](https://dev.to/kelvin_kariuki_20f4bec616/developer-take-on-epic-games-announces-lore-version-control-system-10e9)
-- [Best Ai coding assistant best practices in 2026](https://dev.to/shammi_bajaj_dd836c3d3c73/best-ai-coding-assistant-best-practices-in-2026-1371)
+- [REST vs GraphQL vs tRPC in 2026](https://dev.to/respect17/rest-vs-graphql-vs-trpc-in-2026-52dm)
+- [AI - expert notes](https://dev.to/nirasynthcae26/ai-expert-notes-49pb)
+- [10 Test Automation Problems That Look Simple Until You Face Them in Production](https://dev.to/mellowthunder735/10-test-automation-problems-that-look-simple-until-you-face-them-in-production-h9p)
+- [The AI cheat sheet](https://dev.to/nirasynthcae26/the-ai-cheat-sheet-33mj)
+- [leakproof: stop your AI coding tool from leaking secrets to the cloud &lpar;local, Apache-2.0&rpar;](https://dev.to/hamtek/leakproof-stop-your-ai-coding-tool-from-leaking-secrets-to-the-cloud-local-apache-20-39fn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
