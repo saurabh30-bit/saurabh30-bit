@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to draw PDF XFA Forms accurately &lpar;in your viewer&rpar;](https://dev.to/idrsolutions/how-to-draw-pdf-xfa-forms-accurately-in-your-viewer-49p0)
-- [Day 39 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-39-of-learning-mern-stack-hkp)
-- [Day 39 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-39-of-learning-mern-stack-hkp)
-- [Boosting Local Businesses with Expert Graphic Design Kaithal Haryana](https://dev.to/abhimanyu_moun/boosting-local-businesses-with-expert-graphic-design-kaithal-haryana-5c34)
-- [Day 38 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-38-of-learning-mern-stack-opl)
+- [How I Rotate PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-i-rotate-pdfs-in-the-browser-with-vue-3-and-pdf-lib-541b)
+- [The most-installed JS frameworks aren&#39;t the most-starred — I checked 14](https://dev.to/sigmondev/the-most-installed-js-frameworks-arent-the-most-starred-i-checked-14-2pdl)
+- [O Caos Operacional dos Canais de Atendimento Fragmentados](https://dev.to/erick_martins_56d3ce2af97/o-caos-operacional-dos-canais-de-atendimento-fragmentados-56d9)
+- [Buy EDU Email Accounts](https://dev.to/usasvcit546g/buy-edu-email-accounts-27mn)
+- [Best Web hosting for wordpress in 2026](https://dev.to/shammi_bajaj_dd836c3d3c73/best-web-hosting-for-wordpress-in-2026-13m9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
