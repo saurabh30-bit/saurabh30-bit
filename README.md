@@ -62,11 +62,15 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Rotate PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-i-rotate-pdfs-in-the-browser-with-vue-3-and-pdf-lib-541b)
-- [The most-installed JS frameworks aren&#39;t the most-starred — I checked 14](https://dev.to/sigmondev/the-most-installed-js-frameworks-arent-the-most-starred-i-checked-14-2pdl)
-- [O Caos Operacional dos Canais de Atendimento Fragmentados](https://dev.to/erick_martins_56d3ce2af97/o-caos-operacional-dos-canais-de-atendimento-fragmentados-56d9)
-- [Buy EDU Email Accounts](https://dev.to/usasvcit546g/buy-edu-email-accounts-27mn)
-- [Best Web hosting for wordpress in 2026](https://dev.to/shammi_bajaj_dd836c3d3c73/best-web-hosting-for-wordpress-in-2026-13m9)
+- [I got bored of solving DSA alone, so I built a Real-Time Multiplayer Coding Arena ⚔️](https://dev.to/prajwal_dhande_471033eb1d/i-got-bored-of-solving-dsa-alone-so-i-built-a-real-time-multiplayer-coding-arena-2525)
+- [Your AI agent can now call market_search, market_compare, market_basket autonomously.
+No human in the loop for search + compare.
+What would you build on top of that?
+Procurement bot? Price alert system? Basket optimizer?
+Drop your idea 👇](https://dev.to/ricardo_cuba/your-ai-agent-can-now-call-marketsearch-marketcompare-marketbasket-autonomously-no-human-in-2pcm)
+- [AI Automation for Ai For Solo Fractional Cfos Serving Startups How To Automate Board Deck Financial Section Drafting And Vari...](https://dev.to/ken_deng_ai/ai-automation-for-ai-for-solo-fractional-cfos-serving-startups-how-to-automate-board-deck-financial-cl4)
+- [Developer Take on: Epic Games Announces Lore Version Control System](https://dev.to/kelvin_kariuki_20f4bec616/developer-take-on-epic-games-announces-lore-version-control-system-10e9)
+- [Best Ai coding assistant best practices in 2026](https://dev.to/shammi_bajaj_dd836c3d3c73/best-ai-coding-assistant-best-practices-in-2026-1371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
