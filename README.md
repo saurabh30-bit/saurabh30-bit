@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Luxury Desert Safari Dubai – Premium Desert Safari Tours UAE](https://dev.to/gurmani_d3f52ac1085182572/luxury-desert-safari-dubai-premium-desert-safari-tours-uae-1e0f)
-- [Expert Loft &amp; Kitchen Renovations in Staines &amp; Ashford](https://dev.to/renovisionphull/expert-loft-kitchen-renovations-in-staines-ashford-34c1)
-- [HSBC AI Partnership With Google Cloud](https://dev.to/alexreid777/hsbc-ai-partnership-with-google-cloud-3ka)
-- [Top AI tools and tips](https://dev.to/nirasynthcae26/top-ai-tools-and-tips-55oc)
-- [Ultimate AI resource guide 2026](https://dev.to/nirasynthcae26/ultimate-ai-resource-guide-2026-59hc)
+- [I Built an IDE Because I Wanted Features I Couldn&#39;t Find Elsewhere](https://dev.to/proelectriccoder/i-built-an-ide-because-i-wanted-features-i-couldnt-find-elsewhere-2hh0)
+- [Full Stack &amp; Blockchain Developer](https://dev.to/sky102030/full-stack-blockchain-developer-3jmf)
+- [Full Stack &amp; Blockchain Developer](https://dev.to/sky102030/full-stack-blockchain-developer-3jmf)
+- [swarm-test v0.3.3 — I Visualized My 14-Agent System and the Bottleneck Was Obvious](https://dev.to/suraj_kumar_96bb8767435e2/swarm-test-v033-i-visualized-my-14-agent-system-and-the-bottleneck-was-obvious-73b)
+- [Top AI tools and tips](https://dev.to/nirasynthcae26/top-ai-tools-and-tips-2oj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
