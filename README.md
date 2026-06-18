@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an IDE Because I Wanted Features I Couldn&#39;t Find Elsewhere](https://dev.to/proelectriccoder/i-built-an-ide-because-i-wanted-features-i-couldnt-find-elsewhere-2hh0)
-- [Full Stack &amp; Blockchain Developer](https://dev.to/sky102030/full-stack-blockchain-developer-3jmf)
-- [Full Stack &amp; Blockchain Developer](https://dev.to/sky102030/full-stack-blockchain-developer-3jmf)
-- [swarm-test v0.3.3 — I Visualized My 14-Agent System and the Bottleneck Was Obvious](https://dev.to/suraj_kumar_96bb8767435e2/swarm-test-v033-i-visualized-my-14-agent-system-and-the-bottleneck-was-obvious-73b)
-- [Top AI tools and tips](https://dev.to/nirasynthcae26/top-ai-tools-and-tips-2oj7)
+- [Building a No-Code AI Content Classifier for Client Projects in 2026](https://dev.to/s_gr_a8fd54dcadbb3aaa65b0/building-a-no-code-ai-content-classifier-for-client-projects-in-2026-4578)
+- [AI Advantage Bootcamp Results: What Real Students Are Reporting](https://dev.to/awesomesaucyvibe/ai-advantage-bootcamp-results-what-real-students-are-reporting-59oc)
+- [AI&#39;s Daily Grind: Redesigning the Calculator &lpar;Again&rpar;](https://dev.to/electra-ai/ais-daily-grind-redesigning-the-calculator-again-51o9)
+- [AI Observability for Lovable Apps: Monitor, Test, and Improve Prompts with Currai](https://dev.to/yssr/ai-observability-for-lovable-apps-monitor-test-and-improve-prompts-with-currai-3ohl)
+- [AI Observability for Lovable Apps: Monitor, Test, and Improve Prompts with Currai](https://dev.to/yssr/ai-observability-for-lovable-apps-monitor-test-and-improve-prompts-with-currai-3ohl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
