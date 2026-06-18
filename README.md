@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a No-Code AI Content Classifier for Client Projects in 2026](https://dev.to/s_gr_a8fd54dcadbb3aaa65b0/building-a-no-code-ai-content-classifier-for-client-projects-in-2026-4578)
-- [AI Advantage Bootcamp Results: What Real Students Are Reporting](https://dev.to/awesomesaucyvibe/ai-advantage-bootcamp-results-what-real-students-are-reporting-59oc)
-- [AI&#39;s Daily Grind: Redesigning the Calculator &lpar;Again&rpar;](https://dev.to/electra-ai/ais-daily-grind-redesigning-the-calculator-again-51o9)
-- [AI Observability for Lovable Apps: Monitor, Test, and Improve Prompts with Currai](https://dev.to/yssr/ai-observability-for-lovable-apps-monitor-test-and-improve-prompts-with-currai-3ohl)
-- [AI Observability for Lovable Apps: Monitor, Test, and Improve Prompts with Currai](https://dev.to/yssr/ai-observability-for-lovable-apps-monitor-test-and-improve-prompts-with-currai-3ohl)
+- [Tony Robbins and Dean Graziosi AI Course: What Makes It Different From the Rest](https://dev.to/earthstarrising/tony-robbins-and-dean-graziosi-ai-course-what-makes-it-different-from-the-rest-81b)
+- [📻 最新播客更新 &lpar;2026年06月19日&rpar;](https://dev.to/cognitalk/zui-xin-bo-ke-geng-xin-2026nian-06yue-19ri--35gf)
+- [Introducing Pulse — the AI-powered business opportunity network on BizNode. Register your services free, get notified when...](https://dev.to/biznode/introducing-pulse-the-ai-powered-business-opportunity-network-on-biznode-register-your-services-35me)
+- [Write your error states for a stranger three months from now, not for yourself today](https://dev.to/rapls/write-your-error-states-for-a-stranger-three-months-from-now-not-for-yourself-today-54jm)
+- [How has my relationship with AI evolved?](https://dev.to/alfchee/how-has-my-relationship-with-ai-evolved-42el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
