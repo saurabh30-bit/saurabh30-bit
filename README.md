@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I Saved $2,620 Monthly Ditching GPT-4 — A Data Scientist&#39;s Deep Dive](https://dev.to/purecast/i-saved-2620-monthly-ditching-gpt-4-a-data-scientists-deep-dive-1fll)
-- [How to Start an AI API Affiliate Business in 2026: A Growth Hacker&#39;s Playbook](https://dev.to/gentlelogic/how-to-start-an-ai-api-affiliate-business-in-2026-a-growth-hackers-playbook-11jg)
-- [The Laptop That Changed A Village](https://dev.to/sahiravoice/the-laptop-that-changed-a-village-c6m)
-- [Building a Women-First AI Boyfriend App: What We Learned](https://dev.to/margarita_lucidi_a9e4a7d9/building-a-women-first-ai-boyfriend-app-what-we-learned-3adp)
-- [The Laptop That Changed A Village](https://dev.to/sahiravoice/the-laptop-that-changed-a-village-c6m)
+- [I Built SeqBench - Free Bioinformatics Tools in the Browser](https://dev.to/seqbench/i-built-seqbench-free-bioinformatics-tools-in-the-browser-2g9o)
+- [I Replaced JSON With a Custom Binary Format. In PHP.](https://dev.to/tomj/i-replaced-json-with-a-custom-binary-format-in-php-mok)
+- [Why AI builders keep hitting the same infrastructure wall](https://dev.to/nometria_vibecoding/why-ai-builders-keep-hitting-the-same-infrastructure-wall-35dd)
+- [Top AI tools and tips](https://dev.to/nirasynthcae26/top-ai-tools-and-tips-2n79)
+- [Amazon Bedrock AgentCore Web Search: The Hybrid RAG Playbook](https://dev.to/aarhamforensics_eb3c024eb/amazon-bedrock-agentcore-web-search-the-hybrid-rag-playbook-1me6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
