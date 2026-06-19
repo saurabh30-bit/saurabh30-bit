@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Browser-Level Script Control is No Longer Optional: The 5th Chrome Zero-Day of 2026](https://dev.to/lakshya_porwal/why-browser-level-script-control-is-no-longer-optional-the-5th-chrome-zero-day-of-2026-1kha)
-- [Why Browser-Level Script Control is No Longer Optional: The 5th Chrome Zero-Day of 2026](https://dev.to/lakshya_porwal/why-browser-level-script-control-is-no-longer-optional-the-5th-chrome-zero-day-of-2026-1kha)
-- [The Most Common WooCommerce Mistakes Affecting Sales](https://dev.to/zozothemes_bd23e6d0e93b35/the-most-common-woocommerce-mistakes-affecting-sales-2m4j)
-- [Channel Sounding in iOS 27 and…](https://dev.to/norviktech/channel-sounding-in-ios-27-and-1p1e)
-- [Revolutionizing Healthcare with AI Automation Solutions](https://dev.to/lifeisverygood/revolutionizing-healthcare-with-ai-automation-solutions-504e)
+- [Universal Message Manager](https://dev.to/philbraham/universal-message-manager-2kdl)
+- [VAT validation for pharma and biotech billing](https://dev.to/alexander_nitrovich_16568/vat-validation-for-pharma-and-biotech-billing-2imi)
+- [I Built My First Discord AI Bot and Here&#39;s What Blew My Mind](https://dev.to/rileykim/i-built-my-first-discord-ai-bot-and-heres-what-blew-my-mind-3ea8)
+- [Streamlining Healthcare Code: Reengineering a $600 Billion Architecture Problem](https://dev.to/janakii/streamlining-healthcare-code-reengineering-a-600-billion-architecture-problem-5555)
+- [What Being a Hands-On CTO Is Teaching Me About Leadership](https://dev.to/ogeobubu/what-being-a-hands-on-cto-is-teaching-me-about-leadership-1la3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
