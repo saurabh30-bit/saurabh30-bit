@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Universal Message Manager](https://dev.to/philbraham/universal-message-manager-2kdl)
-- [VAT validation for pharma and biotech billing](https://dev.to/alexander_nitrovich_16568/vat-validation-for-pharma-and-biotech-billing-2imi)
-- [I Built My First Discord AI Bot and Here&#39;s What Blew My Mind](https://dev.to/rileykim/i-built-my-first-discord-ai-bot-and-heres-what-blew-my-mind-3ea8)
-- [Streamlining Healthcare Code: Reengineering a $600 Billion Architecture Problem](https://dev.to/janakii/streamlining-healthcare-code-reengineering-a-600-billion-architecture-problem-5555)
-- [What Being a Hands-On CTO Is Teaching Me About Leadership](https://dev.to/ogeobubu/what-being-a-hands-on-cto-is-teaching-me-about-leadership-1la3)
+- [I Saved $2,620 Monthly Ditching GPT-4 — A Data Scientist&#39;s Deep Dive](https://dev.to/purecast/i-saved-2620-monthly-ditching-gpt-4-a-data-scientists-deep-dive-1fll)
+- [How to Start an AI API Affiliate Business in 2026: A Growth Hacker&#39;s Playbook](https://dev.to/gentlelogic/how-to-start-an-ai-api-affiliate-business-in-2026-a-growth-hackers-playbook-11jg)
+- [The Laptop That Changed A Village](https://dev.to/sahiravoice/the-laptop-that-changed-a-village-c6m)
+- [Building a Women-First AI Boyfriend App: What We Learned](https://dev.to/margarita_lucidi_a9e4a7d9/building-a-women-first-ai-boyfriend-app-what-we-learned-3adp)
+- [The Laptop That Changed A Village](https://dev.to/sahiravoice/the-laptop-that-changed-a-village-c6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
