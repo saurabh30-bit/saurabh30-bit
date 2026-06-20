@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/saurabh-shinde-0889ba382">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="mailto:saurabhshinde.personal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -59,15 +56,16 @@
 
 ---
 
-### 📝 Latest Articles
+### 🚀 Featured Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [AI Technology Video Pipeline: Build a Free End-to-End System with n8n &amp; LangGraph &lpar;2026&rpar;](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-video-pipeline-build-a-free-end-to-end-system-with-n8n-langgraph-2026-2hf)
-- [The Code That Worked in Vibes Broke in Production](https://dev.to/nometria_vibecoding/the-code-that-worked-in-vibes-broke-in-production-44p1)
-- [The Code That Worked in Vibes Broke in Production](https://dev.to/nometria_vibecoding/the-code-that-worked-in-vibes-broke-in-production-44p1)
-- [AI Technology Talent Wars: Why Shazeer&#39;s OpenAI Jump Beats Any Model](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-talent-wars-why-shazeers-openai-jump-beats-any-model-3h9b)
-- [Image to Text Converter Free Online OCR](https://dev.to/chmoez/image-to-text-converter-free-online-ocr-2712)
-<!-- BLOG-POST-LIST:END -->
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🤟 Sign Language Translator](https://github.com/saurabh30-bit/sign-language-translator) | Real-time ISL to text translator | Python, MediaPipe, TensorFlow |
+| [💬 Echo Chat](https://github.com/saurabh30-bit/echo-chat) | Real-time messaging with WebSocket | TypeScript, React, Node.js |
+| [🛡️ Truth Shield](https://github.com/saurabh30-bit/truth-shield) | AI-powered fake news detector | JavaScript, NLP |
+| [🎙️ DeepVoice Shield](https://github.com/saurabh30-bit/deepvoice-shield) | AI voice cloning detector | JavaScript, Deep Learning |
+| [🌾 Crop Doctor](https://github.com/saurabh30-bit/crop-doctor) | AI crop disease diagnosis app | JavaScript, Computer Vision |
+| [📄 Contract Guardian](https://github.com/saurabh30-bit/contract-guardian) | Smart contract vulnerability scanner | JavaScript, NLP |
 
 ---
 
