@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [IT Recruitment Services Exposed a Problem Nobody Mentioned During the Interview](https://dev.to/david_miller_0d3926753ed9/it-recruitment-services-exposed-a-problem-nobody-mentioned-during-the-interview-4d9g)
-- [Google Is Using Nvidia&#39;s Playbook to Build a Rival AI Chip Business](https://dev.to/aarhamforensics_eb3c024eb/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-27gm)
-- [9 Battle-Tested Tactics to Cut Your LLM API Bill &lpar;2026&rpar;](https://dev.to/datanestdigital/9-battle-tested-tactics-to-cut-your-llm-api-bill-2026-4799)
-- [Background Jobs in Python: Celery vs RQ vs Dramatiq vs Arq &lpar;2026 Decision Guide&rpar;](https://dev.to/datanestdigital/background-jobs-in-python-celery-vs-rq-vs-dramatiq-vs-arq-2026-decision-guide-37m6)
-- [NVIDIA Blackwell Sweeps MLPerf Training 6.0: Strong Scaling](https://dev.to/pueding/nvidia-blackwell-sweeps-mlperf-training-60-strong-scaling-2epd)
+- [The most-installed XML viewers are 2★ and abandoned. So I hand-wrote one.](https://dev.to/_06a3df6b50aec966668fb/the-most-installed-xml-viewers-are-2-and-abandoned-so-i-hand-wrote-one-267g)
+- [AI Technology in 2026: Why Coordination Beats Benchmarks](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-in-2026-why-coordination-beats-benchmarks-2p7a)
+- [PNG to PDF without losing transparency: what most converters get wrong](https://dev.to/omermirza09/png-to-pdf-without-losing-transparency-what-most-converters-get-wrong-35om)
+- [How to convert a PDF to images entirely in the browser &lpar;no upload&rpar;](https://dev.to/omermirza09/how-to-convert-a-pdf-to-images-entirely-in-the-browser-no-upload-5hi8)
+- [Can AI actually find the root cause of a bug, or does it just sound confident?](https://dev.to/atharvapanegai/can-ai-actually-find-the-root-cause-of-a-bug-or-does-it-just-sound-confident-5e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
