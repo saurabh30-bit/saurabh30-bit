@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the Best Web Agency in Kaithal Haryana for Your Business Needs](https://dev.to/abhimanyu_moun/finding-the-best-web-agency-in-kaithal-haryana-for-your-business-needs-2j0i)
-- [Ear Wax Removal Services in Mackay | Safe, Gentle &amp; Professional Care by MacKay’s](https://dev.to/mackayears07/ear-wax-removal-services-in-mackay-safe-gentle-professional-care-by-mackays-4hpl)
-- [I built an AI writing tool for authors as a solo dev from Nigeria — here&#39;s how](https://dev.to/imran_isah_/i-built-an-ai-writing-tool-for-authors-as-a-solo-dev-from-nigeria-heres-how-399h)
-- [I built an AI writing tool for authors as a solo dev from Nigeria — here&#39;s how](https://dev.to/imran_isah_/i-built-an-ai-writing-tool-for-authors-as-a-solo-dev-from-nigeria-heres-how-399h)
-- [Deadly AI Fake News Website Empire for Ad Revenue and Phishing](https://dev.to/master_larnacalaec_c1eb3/deadly-ai-fake-news-website-empire-for-ad-revenue-and-phishing-14bj)
+- [IT Recruitment Services Exposed a Problem Nobody Mentioned During the Interview](https://dev.to/david_miller_0d3926753ed9/it-recruitment-services-exposed-a-problem-nobody-mentioned-during-the-interview-4d9g)
+- [Google Is Using Nvidia&#39;s Playbook to Build a Rival AI Chip Business](https://dev.to/aarhamforensics_eb3c024eb/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-27gm)
+- [9 Battle-Tested Tactics to Cut Your LLM API Bill &lpar;2026&rpar;](https://dev.to/datanestdigital/9-battle-tested-tactics-to-cut-your-llm-api-bill-2026-4799)
+- [Background Jobs in Python: Celery vs RQ vs Dramatiq vs Arq &lpar;2026 Decision Guide&rpar;](https://dev.to/datanestdigital/background-jobs-in-python-celery-vs-rq-vs-dramatiq-vs-arq-2026-decision-guide-37m6)
+- [NVIDIA Blackwell Sweeps MLPerf Training 6.0: Strong Scaling](https://dev.to/pueding/nvidia-blackwell-sweeps-mlperf-training-60-strong-scaling-2epd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
