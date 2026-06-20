@@ -62,11 +62,11 @@
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The most-installed XML viewers are 2★ and abandoned. So I hand-wrote one.](https://dev.to/_06a3df6b50aec966668fb/the-most-installed-xml-viewers-are-2-and-abandoned-so-i-hand-wrote-one-267g)
-- [AI Technology in 2026: Why Coordination Beats Benchmarks](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-in-2026-why-coordination-beats-benchmarks-2p7a)
-- [PNG to PDF without losing transparency: what most converters get wrong](https://dev.to/omermirza09/png-to-pdf-without-losing-transparency-what-most-converters-get-wrong-35om)
-- [How to convert a PDF to images entirely in the browser &lpar;no upload&rpar;](https://dev.to/omermirza09/how-to-convert-a-pdf-to-images-entirely-in-the-browser-no-upload-5hi8)
-- [Can AI actually find the root cause of a bug, or does it just sound confident?](https://dev.to/atharvapanegai/can-ai-actually-find-the-root-cause-of-a-bug-or-does-it-just-sound-confident-5e0)
+- [AI Technology Video Pipeline: Build a Free End-to-End System with n8n &amp; LangGraph &lpar;2026&rpar;](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-video-pipeline-build-a-free-end-to-end-system-with-n8n-langgraph-2026-2hf)
+- [The Code That Worked in Vibes Broke in Production](https://dev.to/nometria_vibecoding/the-code-that-worked-in-vibes-broke-in-production-44p1)
+- [The Code That Worked in Vibes Broke in Production](https://dev.to/nometria_vibecoding/the-code-that-worked-in-vibes-broke-in-production-44p1)
+- [AI Technology Talent Wars: Why Shazeer&#39;s OpenAI Jump Beats Any Model](https://dev.to/aarhamforensics_eb3c024eb/ai-technology-talent-wars-why-shazeers-openai-jump-beats-any-model-3h9b)
+- [Image to Text Converter Free Online OCR](https://dev.to/chmoez/image-to-text-converter-free-online-ocr-2712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
