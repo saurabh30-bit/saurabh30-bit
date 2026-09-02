@@ -72,16 +72,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical&count_private=true&v=2" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=saurabh30-bit&theme=radical&v=5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical&count_private=true&v=3" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=saurabh30-bit&theme=radical&v=6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api/top-langs/?username=saurabh30-bit&layout=compact&theme=radical&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api/top-langs/?username=saurabh30-bit&layout=compact&theme=radical&v=3" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/main/github-metrics.svg?v=2" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/main/github-metrics.svg?v=3" alt="Metrics" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-cyan-nine.vercel.app/?username=saurabh30-bit&theme=radical&no-frame=true&no-bg=true&v=2" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-cyan-nine.vercel.app/?username=saurabh30-bit&theme=radical&no-frame=true&no-bg=true&v=3" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -100,8 +100,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/output/github-contribution-grid-snake.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saurabh30-bit/saurabh30-bit/output/github-contribution-grid-snake.svg?v=3">
   </picture>
 </p>
