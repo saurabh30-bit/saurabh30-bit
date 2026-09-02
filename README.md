@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical&count_private=true&v=4" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=saurabh30-bit&theme=radical&v=7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh30-bit&theme=radical&v=7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
