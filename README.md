@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-phi-eight-vjmb37oyhy.vercel.app/api?username=saurabh30-bit&show_icons=true&theme=radical&hide_border=true&cache_bust=99999&count_private=true&v=4" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh30-bit&theme=radical&hide_border=true&cache_bust=99999&hide_border=true&cache_bust=99999" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=saurabh30-bit&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
